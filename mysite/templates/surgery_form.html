@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>EDAN50 - Project</title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+		<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:700,300' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+		<header>
+			<h1>Survival Days Estimator</h1>
+		</header>
+		<section class="Information-form">
+			<form>
+				<div id="Donor">
+					<p>Donor's Information</p>
+					<table>
+						<tr>
+						    <td id="text">Age:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+			<tr>
+			  <td id="text">Operation Year:</td>
+			  <td><input type="number" /></td>
+			</tr>
+                        <tr>    
+                            <td id="text">Gender:</td>
+                            <td><select>
+                                    <option>None</option>
+                                    <option>M</option>
+                                    <option>F</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Height:</td>
+                            <td><input type="number"></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Weight:</td>
+                            <td><input type="number"></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Cigarette:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>  
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Alcohol:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Cocaine:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Diabetes:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Hypertension:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">LVEF:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Cytomegalovirus:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>P</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Creatinine:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">BUN:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Serum Bilirubin:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Ischemic Time:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Cause of Death:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">A1:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">A2:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">B1:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">B2:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">DR1:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">DR2:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">ABO:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>A</option>
+                                    <option>B</option>
+                                    <option>O</option>
+                                    <option>AB</option>
+                                </select>
+                            </td>
+                        </tr>
+					</table>
+				</div>
+				<div id="Patient">
+					<p>Patient's Information</p>
+					<table>
+                        <tr>
+						    <td id="text">Diagnosis:</td>
+                            <td><input type="number" />
+                        </tr>
+                        <tr>
+                            <td id="text">Age:</td>
+                            <td><input type="number" />
+                        </tr>
+                        <tr>
+                            <td id="text">Gender:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>M</option>
+                                    <option>F</option>
+                                </select>
+                            <td>
+                        </tr>
+                        <tr>
+                            <td id="text">Height:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Weight:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Cigarette:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">COPD:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Diabetes:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Peptic Ulcer:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Hypertension:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                        </tr>
+                        <tr>
+                            <td id="text">Perip Vasc:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Cereb Vasc:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Cereb Vasc Event:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Dialysis:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">IV therapy:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Cytomegalovirus:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Antiarrythmics:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Amiodarone:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Defibrillator:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Angina:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">PRA:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Transfusion:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Transplant:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Card Surg:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Malignancy:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Oxygen Exercise:</td>
+                            <td><input id="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Functional Status:</td>
+                            <td><input id="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Working Income:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Hemo pcw:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Hemo co:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Hemo pa sys:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Creatinine:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Serum Bilirubin:</td>                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Serum Albumin:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Medical Condition:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">Inotropic Support:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Mechanical Ventilator:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Ballon Pump:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">ECMO:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">Ventricular Assist:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>Y</option>
+                                    <option>N</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="text">A1:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">A2:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">B1:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">B2:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">DR1:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">DR2:</td>
+                            <td><input type="number" /></td>
+                        </tr>
+                        <tr>
+                            <td id="text">ABO:</td>
+                            <td>
+                                <select>
+                                    <option>None</option>
+                                    <option>A</option>
+                                    <option>B</option>
+                                    <option>O</option>
+                                    <option>AB</option>
+                                </select>
+                            </td>
+                        </tr>
+					</table>
+				</div>
+				<div id="Result">
+					<p>Estimation</p>
+					<table>
+						<tr>
+							<td>Survival Days:</td>
+							<td><input type=number /></td>
+						</tr>
+                        <tr>
+					</table>
+                    <input id="button" type="submit" value="Submit" />
+				</div>
+			</form>
+		</section>
+	</body>
+</html>

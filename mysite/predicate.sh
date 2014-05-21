@@ -1,0 +1,1 @@
+~/application/liblinear-1.94/predict -b 1 test_table.txt table2.txt.model out_test.txt
