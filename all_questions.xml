@@ -1,0 +1,4901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<QASET>
+<VERSION>CLQA1-CC-EC-T1200 (CLQA1 CC and EC Formal Run Data) by C.J. Lin (NTOU)</VERSION>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1001-00">京都议定书规定几个工业国家的二氧化碳排放量限制？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1001-00">How many industrial nations does the Kyoto Protocol restrict the carbon dioxide emission of?</Q>
+<QTYPE>NUMEX</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20001202_0660071">37</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010330_0832514">三十八</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1002-00">首位自费太空旅行的观光客为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1002-00">Who is the first self-financed space tourist?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010507_0890732">提托</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010429_0878824">提托</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010523_0916127">提托</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010428_0878270">提托</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1003-00">国家三级古蹟蓝田书院位于何地？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1003-00">Where is Taiwan’s rating-3 historic site "Lantian Academy" located?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010213_0761326">南投县</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000801_0480061">南投县</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000316_0059402">南投县</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000810_0036807">南投县</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000911_0528553">南投县</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010213_0761326">南投</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000921_0544863">南投</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000925_0550530">南投</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1004-00">2001年台湾被指控酒后性侵害酒店小姐的地下乐团为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1004-00">Which underground band was accused of sexually abusing bar attendants under the influence of alcohol in Taiwan in 2001?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010204_0748397">董事长乐团</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010204_0748118">董事长乐团</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010204_0748116">董事长乐团</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010204_0748385">董事长乐团</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011121_1195951">董事长乐团</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010208_0754899">董事长乐团</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010417_0859934">董事长乐团</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010205_0749750">董事长</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010208_0754899">董事长</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1005-00">全台第一个防灾公园坐落于台中县哪个地方？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1005-00">Where in Taichung County is Taiwan’s first anti-disaster park located?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000413_0096148">大里市</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000917_0538024">大里市</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001118_0638169">大里市</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1006-00">立法委员罗福助因景文案和哪位立法委员发生剧烈肢体冲突？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1006-00">Which legislator did Legislator Lo Fu-Chu come into fierce physical conflict with because of the "Jin-Wen Case?"</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010330_0832817">李庆安</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011119_1193053">李庆安</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010402_0836570">李庆安</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010412_0852661">李庆安</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010410_0848677">李庆安</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010412_0852421">李庆安</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010329_0831093">李庆安</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010401_0835534">李庆安</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010410_0848689">李庆安</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1007-00">香港富商李嘉诚旗下的哪家公司的并购案成为台湾出版产业被外资大规模并购的历史首例？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1007-00">Which one of Hong Kong businessman Lee Ka-shin’s company is responsible for the first large-scale foreign merger and acquisition case in Taiwan’s publishing industry?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010515_0903100">TOM.COM</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011230_1255265">Tom.com</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1008-00">东方科学园区位于何地？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1008-00">Where is the Eastern Science Park?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010514_0901911">汐止</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010515_0903088">汐止</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010514_0901767">汐止</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010903_1075954">汐止</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010515_0903888">汐止</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010515_0903656">汐止</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010514_0902079">汐止</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010514_0901443">汐止</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010515_0903703">北二高汐止交流道旁</A>
+<A LANG="ZH" DOCNO="edn_xxx_20000421_0108096">汐止</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010514_0902150">汐止</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010518_0908490">汐止</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1009-00">谁发明了大易输入法？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1009-00">Who invented the Dayi input method?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010901_1073395">王赞杰</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010614_0949991">王赞杰</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1010-00">新疆北部由天山和阿尔泰山所包夹的盆地是什么？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1010-00">Which basin is surrounded by Tianshan Mountain and Altai Mountain of northern Xingjiang?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010822_1056514">准噶尔盆地</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1011-00">金氏世界纪录中最长（1650CM）的发绣作品是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1011-00">What is the name of the longest (1650 cm) hair embroidery piece in the Guinness World Record?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011122_1197397">姑苏繁华图</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1012-00">中国哪个朝代是首见的草原游牧民族统一政权？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1012-00">Which Chinese dynasty was the first to be governed by grassland nomads?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011031_1163752">元朝</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011201_1211646">元朝</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011031_1163770">元朝</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000803_0486690">元朝</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1013-00">西班牙电影「睁开你的双眼」（Abre Los Ojos）被美国人翻拍成哪部电影？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1013-00">Which American movie is the remake of the Spanish movie Abre Los Ojos?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011230_1255311">香草天空</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1014-00">「蜀道之难难于上青天」这句诗出自何诗人之手？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1014-00">Who is the author of the poem "Traveling on the Roads of Shu is Harder than Scaling the Blue Sky?"</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010314_0805864">李白</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1015-00">大西海子水库位于哪条河道上？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1015-00">Which river is the Daxihaizi Reservoir on?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010507_0890868">塔里木河</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1016-00">2001年时，全球最大的滨海风力发电园区在何国启用？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1016-00">Which country launched the world’s biggest offshore wind power in 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010507_0890792">丹麦</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010507_0890579">丹麦</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1017-00">哪位中国歌唱家是世界三大男高音之一帕华洛帝的首位亚洲入门弟子？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1017-00">Which Chinese singer is the first Asian student of Pavarotti of The Three Tenors?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010725_1013939">戴玉强</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1018-00">全台湾第一个蜜蜂博物馆─蜂采馆设于何地？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1018-00">Where is Taiwan’s first bee museum located?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010722_1009551">宜兰县</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010301_0786757">宜兰县</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010116_0726586">宜兰县</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010118_0729449">宜兰县</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010118_0730008">宜兰县</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010722_1009551">宜兰</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010903_1075844">宜兰</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010726_1015325">宜兰县员山乡</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1019-00">在1971年美国哪艘太空船曾由月球带回来的岩石切片？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1019-00">Which American spacecraft brought back rock samples from the moon in 1971?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010717_1000741">阿波罗15号太空船</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010717_1000746">阿波罗15号太空船</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1020-00">2001年日本首相小泉纯一郎因参拜哪一个神社使得邻近各国纷纷提出严正抗议？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1020-00">Which shrine caused Japanese Prime Minister Junichiro Koizumi to be criticized by neighboring nations for visiting it in 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010814_1045389">靖国神社</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010814_1044964">靖国神社</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010816_1048740">靖国神社</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010712_0994433">靖国神社</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010820_1054338">靖国神社</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010806_1032462">靖国神社</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010815_1046114">靖国</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010808_1036016">靖国</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010823_1059843">靖国</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010815_1046571">靖国神社</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1021-00">前南联总统米罗塞维奇受审的联合国战犯法庭位于何处？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1021-00">Where did the UN War Crime Tribunal which tried the former president of Yugoslavia, Milosevic, take place?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010706_0985506">荷兰海牙</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010711_0992592">荷兰</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010701_0977102">海牙</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010701_0976933">荷兰海牙</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010704_0981756">荷兰海牙</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010402_0836568">荷兰海牙</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010804_1030279">荷兰海牙</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010627_0970024">海牙</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001015_0584794">海牙</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010402_0836568">海牙</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010624_0966595">海牙</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010630_0976237">海牙</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1022-00">位于台北大稻埕俗称「盐馆」的辜宅，是1910年哪个辜家人所创建？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1022-00">Which member of the Koo family built a mansion, which is also known as the "Salt Hall", in Tataocheng of Taipei in 1910?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010827_1065434">辜显荣</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010827_1064990">辜显荣</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010828_1066704">辜显荣</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010827_1064994">辜显荣</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010827_1065286">辜显荣</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010827_1065286">辜显荣</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1023-00">「亚洲废弃物管理杰出奖」是由欧盟执委会和新加坡政府组成的什么组织所颁发？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1023-00">Which organization under the European Commission and Singapore government grants the Asia Waste Management Excellence Award 2001?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011016_1139338">区域环境科技组织</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011016_1139338">环科</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1024-00">台湾首支进军大陆职篮比赛的队伍是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1024-00">Which Taiwanese basketball team was the first to compete in China?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010811_1041492">新浪篮球队</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010929_1116240">新浪队</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011208_1224068">新浪狮篮球队</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010929_1116404">新浪篮球队</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20001208_0669179">新浪篮球队</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1025-00">台北市那家知名购物中心是由一个球形建筑和L形建筑所构成？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1025-00">Which well-known shopping mall in Taipei City is made up of a spherical structure and an L-shaped structure?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011118_1192008">京华城</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011109_1178346">京华城</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011109_1178326">京华城</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011126_1203806">京华城</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010701_0980294">京华城</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1026-00">在古巴队在2001年前34届的世界杯棒球比赛中共拿下几次冠军？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1026-00">How many of the 34 World Cup Baseball championships did the Cuba team win before 2001?</Q>
+<QTYPE>NUMEX</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011119_1192908">23次</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011119_1192665">23次</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011119_1193161">23次</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011119_1192908">23</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1027-00">2001年在美国发现最大的完整蟑螂化石有几公分长？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1027-00">What is the length in centimeters of the largest full cockroach fossil that was discovered in the U.S. in 2001?</Q>
+<QTYPE>NUMEX</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20011108_1177075">9公分</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011108_1177075">9</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011109_1178256">九</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011108_1177075">长约9公分</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1028-00">第一位获得台大名誉博士学位的是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1028-00">Who is the first person to earn an honorary doctoral degree at the National University of Taiwan?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20011104_1170182">辜振甫</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011104_1170322">辜振甫</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011116_1189012">辜振甫</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011115_1187817">辜振甫</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011116_1189485">辜振甫</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1029-00">良渚文化是那条河下游古代文明文化发展的源头？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1029-00">Which river’s lower reaches are the originating place of the Liangzhu Culture?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010718_1003519">长江</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011231_1256527">长江</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010404_0840000">长江</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1030-00">中国唯一有两位帝王合葬的陵园且有「唐陵之冠」称号的是位于西安的？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1030-00">Where in Xi’an does the only Chinese tomb where two emperors are buried together lie?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011231_1256512">干陵</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000203_0221176">干陵</A>
+<A LANG="ZH" DOCNO="ude_xxx_20000612_0015201">干陵</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1031-00">2001年哪位大陆艺人因为穿着「日本军旗装」走秀，引发大陆民众一片挞伐？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1031-00">Which Chinese actor/actress angered the Chinese people because he/she wore a dress with a pattern resembling a Japanese flag in a fashion show?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011230_1255553">赵薇</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011230_1255554">赵薇</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011229_1253683">赵薇</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011211_1226357">赵薇</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011208_1222809">赵薇</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011209_1224836">赵薇</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011229_1254189">赵薇</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011205_1217524">赵薇</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011205_1218553">赵薇</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1032-00">独家报导杂志曾以哪位政治人物的性爱偷拍光碟搭配其周刊贩售？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1032-00">Which politician did the Scoopweekly sell the secretly-shot sex video of with the weekly magazine?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20011226_1249809">璩美凤</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011218_1237828">璩美凤</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011223_1245339">璩美凤</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011219_1238713">璩美凤</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011218_1237830">璩美凤</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011219_1239608">璩美凤</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011219_1238970">璩美凤</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011219_1238699">璩美凤</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011218_1237738">璩美凤</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011221_1242957">璩美凤</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011223_1245281">璩美凤</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1033-00">台湾童谣「天黑黑」是由哪位作曲家所创作？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1033-00">Who is the composer of the Taiwanese nursery rhyme "Dark Dark Sky?"</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011206_1219504">郭芝苑</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000827_0505370">郭芝苑</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1034-00">进行九一一恐怖攻击行动的回教激进恐怖组织为？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1034-00">Which Muslim terrorist group is responsible for the 911 attack?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20011008_1128655">凯达</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011006_1126544">凯达组织</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011031_1164162">凯达组织</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011105_1171489">凯达</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011008_1130381">凯达</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1035-00">巴勒斯坦解放组织的领袖为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1035-00">Who is the leader of Pakistan Liberation Organization?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20000712_0468845">阿拉法特</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010912_1091331">阿拉法特</A>
+<A LANG="ZH" DOCNO="ude_xxx_20000712_0468734">阿拉法特</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001016_0585902">阿拉法特</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1036-00">欧洲联盟决议于何年开始统一使用欧元？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1036-00">In what year did the European Union choose to be the year for starting to use Euro?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010214_0762658">2002年</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011224_1246107">公元2002年</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010519_0909692">2002年</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011224_1246055">二00二年</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011218_1236788">2002年</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011027_1157428">2002</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011027_1157428">2002年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010607_0940443">2002年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1037-00">世界贸易组织于哪一年审议通过中国加入WTO？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1037-00">In what year did the WTO accept China into membership?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011113_1183900">二○○一年</A>
+<A LANG="ZH" DOCNO="edn_xxx_20001216_0681831">2001年</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010919_1100391">2001年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1038-00">2001年犯下王室灭门血案的尼泊尔王储为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1038-00">Which Nepal crown prince is responsible for the mass murder of the royal family in 2001?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010602_0933437">狄潘德拉</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010603_0934031">狄潘德拉</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010604_0935216">狄潘德拉</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010604_0934950">狄潘德拉</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010611_0945842">狄潘德拉</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010603_0933994">狄潘德拉</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010603_0933994">王储狄潘德拉</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010604_0935194">狄潘德拉</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1039-00">2001年G8会议于何地举行？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1039-00">Where did the 2001 G8 Summit take place?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010718_1003383">义大利热那亚</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011126_1203554">义大利</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011126_1203554">热那亚</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1040-00">麦可乔丹二次复出NBA加入何队？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1040-00">Which team did Michael Jordan join when he returned to the NBA for the second time?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20011217_1236301">华盛顿巫师队</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011004_1123327">巫师</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011002_1119220">华盛顿魔法师队</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011030_1162691">巫师</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011222_1244571">巫师</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1041-00">MLB单季73支全垒打纪录的缔造者邦兹效力于何队？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1041-00">Which team does Barry Bonds, the recorder setter for hitting 73 homeruns in a single MLB season, belong to?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011001_1118070">巨人队</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010911_1088655">旧金山巨人队</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010818_1052231">旧金山巨人队</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010828_1066871">旧金山巨人队</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010811_1040986">旧金山巨人队</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011117_1190766">旧金山巨人队</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1042-00">2000~2001年赛季NBA总冠军为何队？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1042-00">Which team won the NBA championship in the 2000-2001 season?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000729_0446699">洛杉矶湖人队</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011002_1119028">湖人</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011222_1244574">湖人</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010617_0958599">湖人队</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011002_1119220">湖人</A>
+<A LANG="ZH" DOCNO="ude_xxx_20000620_0007465">洛杉矶湖人队</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000627_0028999">湖人</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010529_0926007">湖人</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001109_0623798">湖人队</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010529_0926007">湖人队</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1043-00">美国职棒大联盟运动家吉昂比转队至纽约的合约中签定的年薪是多少？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1043-00">What is the yearly salary stated in MLB Jason Giambi’s contract with the New York Yankees when Giambi transferred to New York?</Q>
+<QTYPE>MONEY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20011211_1227717">7年一亿两千万美元</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1044-00">美国职棒大联盟首位获得例行赛MVP的日本籍野手是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1044-00">Which Japanese fielder is the first to win the MLB MVP?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011122_1197801">铃木一朗</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1045-00">2001年夺得澳洲公开赛女单冠军的网球选手为？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1045-00">Which tennis player won the 2001 Australian Open Women’s Single game?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010907_1083626">卡普莉亚蒂</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010203_0746833">卡普莉雅蒂</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011220_1240140">卡普莉雅蒂</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011228_1253235">卡普莉雅蒂</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1046-00">2001年夺得法国公开赛女单冠军的网球选手为？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1046-00">Which tennis won the 2001 French Open Women’s Single game?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010907_1083626">卡普莉亚蒂</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011220_1240140">卡普莉雅蒂</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1047-00">2001年遭刺杀身亡的刚果民主共和国总统为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1047-00">Which Congo president was assassinated in 2001?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010118_0730624">卡毕拉</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010118_0730157">卡毕拉</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010121_0735088">卡毕拉</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010121_0735645">卡毕拉</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1048-00">全球第一个通过医学用复制胚胎合法化的国家是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1048-00">Which country was the first in the world to legalized embryo cloning for medical use?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010825_1063360">英国</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20001221_0689020">英国</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010811_1041321">英国</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010815_1046877">英国</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1049-00">印尼史上第一位女总统为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1049-00">Who is the first female Indonesian president?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010724_1012717">梅嘉娃蒂</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010724_1012717">梅嘉娃蒂‧苏卡诺布德芯</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010724_1012717">梅加瓦蒂</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1050-00">涉嫌对台军售弊案的前法国外长为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1050-00">Which former French Minister of Foreign Affairs was involved in the Taiwan’s armament purchase scandal?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010203_0747522">杜马</A>
+<A LANG="ZH" DOCNO="ude_xxx_20000802_0486975">杜马</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000813_0032321">杜马</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010123_0737630">杜马</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010516_0905440">杜马</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1051-00">一奈米有多长？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1051-00">How long is one nanometer?</Q>
+<QTYPE>NUMEX</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010924_1106728">10亿分之1公尺</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1052-00">日本政府放任日圆贬值的价位约在？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1052-00">What value does the Japanese government decide to deflate yen to?</Q>
+<QTYPE>MONEY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20011227_1250943">130日圆兑1美元</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1053-00">美国史上最大宗的企业破产事件为哪一家企业？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1053-00">What is largest company bankruptcy case in the US history?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20011211_1226605">恩龙公司</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011229_1254156">恩龙</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011130_1211207">恩龙</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1054-00">微软的总裁为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1054-00">Who is Microsoft’s president?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000627_0029806">比尔盖兹</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010914_1094003">Richard Belluzzo</A>
+<A LANG="ZH" DOCNO="edn_xxx_20000101_0110022">巴尔莫</A>
+<A LANG="ZH" DOCNO="edn_xxx_20000115_0245942">巴尔莫</A>
+<A LANG="ZH" DOCNO="edn_xxx_20000704_0021477">巴尔莫</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000528_0435389">比尔‧盖兹</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010914_1094003">贝鲁佐</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000115_0246767">盖兹</A>
+<A LANG="ZH" DOCNO="ude_xxx_20000608_0411609">盖兹</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1055-00">首位遭到司法当局起诉逮捕的菲律宾前总统为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1055-00">Which former Philippine president is the first to be arrested by the judicial bureau?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010513_0900720">艾斯特瑞达</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010417_0859082">艾斯特拉达</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1056-00">由董氏基金会发起向国际菸草商控告求偿的赔偿金额约为？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1056-00">What is the amount of indemnity that John Tung Foundation asks international tobacco companies to pay?</Q>
+<QTYPE>MONEY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010220_0773475">240亿美元</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1057-00">首位公开承认同性恋身分的柏林市市长为？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1057-00">Who is the first Berlin mayor to publicly admit that he is a gay?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010626_0968662">渥维雷特</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010626_0968037">沃瑞特</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010618_0956177">渥维瑞特</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010806_1032119">渥维雷特</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1058-00">2001年9月1日新宿歌舞伎町大火共造成多少人死亡？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1058-00">What are the casualties in the Shinjuku Kabuki-cho fire on September 1st, 2001?</Q>
+<QTYPE>NUMEX</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010902_1075407">四十四人</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011030_1161475">44</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010901_1074645">44</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011030_1161475">44人</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1059-00">日本为支援美国反恐战争所通过的法案为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1059-00">Which law was passed by Japan to support the US anti-terrorism war?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20011009_1129448">反恐怖对策特别法</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1060-00">美国为发展NMD欲退出哪一项条约？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1060-00">Which treaty does the US wish to withdraw from in order to develop NMD?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011218_1237642">反弹道飞弹条约</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011115_1186985">ABM</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011218_1237642">ABM</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1061-00">首家完成人类基因图谱解码的公司为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1061-00">Which company is the first to finish sequencing the entire human genome?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010321_0818454">赛雷拉</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010212_0760024">美国塞勒拉公司</A>
+<A LANG="ZH" DOCNO="edn_xxx_20000628_0027997">塞勒拉</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1062-00">2001年率领自由联盟于国会选举获胜并再度出任总理的义大利前总理为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1062-00">Which former Italian premier led Casa Liberta to victory in the congress and become the premier once again in 2001?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010514_0901888">贝鲁斯柯尼</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1063-00">美国史上首位非洲裔国务卿为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1063-00">Who is the first African-American Secretary of State in the US?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20001218_0684372">鲍威尔</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001129_0655069">鲍尔</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001218_0684650">鲍尔</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010120_0734328">鲍尔</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1064-00">涉嫌强暴琉球女子的嘉手纳基地驻日美军空军技术员为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1064-00">Which American Air Force personnel in the Kadena Air Force Base is accused of attempted rape of an Okinawa girl?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010704_0981770">伍德兰</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010707_0987157">伍德兰</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1065-00">哪家航空公司收购全美航空的计画案因违反托辣斯法被迫取消？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1065-00">Which airline company’s plan to acquire US Airways was forced to be cancelled because it violated the Hart-Scott-Rodino Antitrust Improvements Act?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20000525_0428946">联合航空</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1066-00">2001年歌剧「阿伊达」的作曲家是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1066-00">Who is the composer of Opera Aida?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010129_0738575">威尔第</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000816_0488187">威尔第</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000920_0542084">威尔第</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010326_0825301">威尔第</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1067-00">21世纪第一次月全食是在2001年的几月几日？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1067-00">What is the date of the first lunar eclipse in the 21st century in 2001?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010105_0711552">一月10日</A>
+<A LANG="ZH" DOCNO="ude_xxx_20001219_0686412">1月10日</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010106_0713004">元月十日</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1068-00">希腊籍货轮阿玛斯号在台湾何地外海搁浅沉没？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1068-00">The Greek freighter Amorgos sank off the coast of which place in Taiwan?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010206_0751478">垦丁</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010209_0756312">屏东鹅銮鼻</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010206_0751478">恒春</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010213_0761796">垦丁</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010403_0838062">垦丁</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010208_0755108">垦丁外海</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010406_0842906">龙坑</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010204_0748479">龙坑</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010216_0767435">鹅銮鼻</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1069-00">获得第14届国际萧邦钢琴大赛首奖为哪位华人？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1069-00">Which Chinese won the 14th International Frederick Chopin Piano Competition?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20001112_0628045">李云迪</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20001021_0593531">李云迪</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1070-00">在2001年全球生活最昂贵的城市中，台北市排名第几？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1070-00">What is the rank of Taipei in the world’s most expensive cities in 2001?</Q>
+<QTYPE>NUMEX</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010119_0732065">第六</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1071-00">谁是全世界第一位接受手臂移植的人？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1071-00">Who is the first person in the world to receive arm transplant?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010204_0748399">哈兰</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1072-00">全球首见的人类狂牛症「贾库氏症」在1996年于何国被发现？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1072-00">Which country held the world’s first discovered case of Creutzfeldt Jakob Disease (CJD)?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010201_0743702">英国</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000902_0514502">英国</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010209_0756721">英国</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010530_0928021">英国</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1073-00">东元电机和哪家公司合并？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1073-00">Which companies will merge with TECO Group?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010321_0818204">声宝公司</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010321_0818456">声宝</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010615_0952321">声宝公司</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010325_0824481">声宝公司</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010325_0824526">声宝公司</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1074-00">知名漫画「淘气阿丹」的创作者是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1074-00">Who is the author of famous comic strip Dennis the Menace?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010310_0800886">凯强姆</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010603_0933870">享利汉克凯契姆</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010305_0792484">凯契安</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010603_0933870">凯契姆</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010305_0792484">汉克凯契安</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1075-00">台湾唯一的一家风筝博物馆位于何处？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1075-00">Where is Taiwan’s only kite museum located?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010228_0785005">九份</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20001101_0610585">九份</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011025_1153895">九份</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010710_0989928">北县九份</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011021_1148259">台北县</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011024_1153401">石门</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011025_1155307">石门</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011025_1155307">石门乡</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011024_1152590">石门乡</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1076-00">提出「微晶片的运算能力每18个月会提高1倍」这定律的人是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1076-00">Who proposed the law that computation power of microchips will double every 18 months?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010114_0724214">摩尔</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010427_0876149">摩尔</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010526_0921970">摩尔</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010611_0945841">摩尔</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1077-00">2001年在首届世界电玩赛「世纪帝国II」项目中夺冠的是哪个台湾选手？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1077-00">Which Taiwanese contestant won the Age of Empires II competition in the first World Cyber Games in 2001?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011211_1227355">曾政承</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011210_1225489">曾政承</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011210_1225882">曾政承</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1078-00">2001年哪个香港著名八卦杂志登台，将狗仔偷拍风气引进台湾？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1078-00">Which famous Hong Kong tabloid introduced paparazzi into Taiwan in 2001?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010527_0923357">壹周刊</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1079-00">世界气喘日是几月几日？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1079-00">What is the date of the World Asthma Day?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000503_0147905">5月3日</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010424_0871091">5月3日</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000426_0135841">五月三日</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010429_0878773">五月三日</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1080-00">2001年检察官冲进哪所大学的宿舍搜索学生非法下载MP3？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1080-00">Which university’s dormitory was examined by prosecutors for students’ illegal downloading of MP3 in 2001?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010412_0852031">成功大学</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010417_0859244">成大</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010414_0854856">成大</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010422_0868058">成大</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010423_0869011">成大</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010501_0881577">成大</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010524_0918550">成大</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010415_0856917">成功大学</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010419_0863130">成功大学</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010423_0869011">成功大学</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010501_0881577">成功大学</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1081-00">全世界发现的第一个黑嘴端凤头燕鸥度冬区是在嘉义县的哪条溪出海口？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1081-00">The first ever found habitat of wintering Chinese Crested Tern is located in the inlet of which creek in Chiayi?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010417_0859554">急水溪</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1082-00">1846年哪个人成功的破译了贝希斯顿铭文中全部的波斯楔形文字？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1082-00">Who successfully decoded all the Persian cuneiform writings in the great Behistun inscription in 1846?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010408_0845609">罗林生</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010407_0844272">罗林生</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010409_0846696">罗林生</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010412_0851677">罗林生</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1083-00">哪位名画家的两幅画「巨人」、「挤牛奶的妇人」被指出可能并非他的真迹？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1083-00">Which artist’s two paintings, "the Colossus" and "the Milkmaid of Bordeaux," were suspected of not being authentic?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010406_0842781">哥雅</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1084-00">2001年被美国送上火星进行探测任务的是什么号？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1084-00">What is the name of the spacecraft that was sent by the US to Mars for exploration in 2001?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011025_1155023">火星探险之旅号</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1085-00">全球首位成功登上圣母峰顶的盲人为？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1085-00">Who is the first blind man to reach the summit of Mount Everest?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010526_0922357">魏汉梅尔</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010531_0930263">魏汉梅</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1086-00">创下第一位华人驾驶无动力帆船环绕世界一周纪录的人是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1086-00">Who is the first Chinese to travel around the world in one week on a non-powered sailboat?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010520_0911585">刘宁生</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010512_0899239">刘宁生</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010518_0908522">刘宁生</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1087-00">清朝时，台湾的第一任巡抚是谁?</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1087-00">Who is Taiwan’s first governor in the Ching Dynasty?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010914_1093692">刘铭传</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010427_0876069">刘铭传</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1088-00">「蓝宇」的导演是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1088-00">Who is the director of Lanyu?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011207_1220961">关锦鹏</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010502_0882598">关锦鹏</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010518_0908527">关锦鹏</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011124_1201357">关锦鹏</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1089-00">科鲁伊亚火山位于何地？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1089-00">Where is Kilavea located?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010331_0834621">夏威夷</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010331_0834621">大岛</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001201_0657352">大岛</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001201_0657352">夏威夷</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1090-00">纽西兰的首都是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1090-00">What is the capital of New Zealand?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20000926_0551680">威灵顿</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1091-00">台北市第一条捷运线木栅线是于民国几年开始营运？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1091-00">In what year did Taipei’s first rapid transit route, the Muzha route, commenced in?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011209_1224510">民国85年</A>
+<A LANG="ZH" DOCNO="ude_xxx_20001225_0695307">85年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001213_0676629">一九九六年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010510_0896110">八十五</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000424_0133513">八十五年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1092-00">人类史上第一颗钻石约4000年前在哪里出土？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1092-00">Where was the first 4000-year old diamond discovered?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010513_0900088">印度</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1093-00">法国地标艾菲尔铁塔高几公尺？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1093-00">What is the height in meters of the Eiffel Tower?</Q>
+<QTYPE>NUMEX</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011129_1208505">三百二十四公尺</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1094-00">西元前79年义大利哪座火山爆发，灭亡了庞贝城？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1094-00">Which volcano’s eruption destroyed the Pompeii in 79BC?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011220_1240933">维苏威火山</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010218_0770393">维苏威火山</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010208_0753698">维苏威火山</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1095-00">日本漫画「网球王子」的作者是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1095-00">Who is the author of the Japanese comic book “Prince of Tennis”?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010505_0887810">许斐刚</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1096-00">台湾第一座国家公园是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1096-00">What is the name of Taiwan’s first national park?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010908_1085506">垦丁国家公园</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010908_1085506">垦丁</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1097-00">哪个人工卫星捕捉到黑洞的镜头？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1097-00">Which artificial satellite captured photos of a black hole?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010907_1083315">钱德拉X光观测卫星</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010907_1083315">钱德拉X光</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1098-00">美国哪位总统的政府任命的少数族裔官员是历来最多的？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1098-00">Which American president appointed the most officials with minority ethnic background?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010114_0724039">柯林顿</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1099-00">日本NHK每年除夕举办的演唱会节目叫什么名字?</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1099-00">What is the name of Japan’s NHK’s annual new year’s concert?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010129_0738540">红白歌合战</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1100-00">被马友洛环礁包围的岛国为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1100-00">Which island country is surrounded by the Majuro Reef?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011218_1237024">马绍尔共和国</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011218_1237024">马绍尔</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1101-00">日本漫画「海贼王」的作者是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1101-00">Who is author of the Japanese comic book “One Piece”?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010721_1007736">尾田荣一郎</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1102-00">足球明星大卫贝克汉的妻子是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1102-00">Who is the wife of the soccer star David Beckham?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000307_0045379">维多莉亚</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000813_0033754">维多莉亚</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001022_0595314">维多莉亚</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1103-00">高雄哪一条河原本为臭水，现已整治成功?</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1103-00">Which river in Kaohsiung used to be stinking, but has been renovated successfully?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011018_1142887">爱河</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011224_1245794">前镇河</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1104-00">泰国最大的岛屿是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1104-00">What is the largest island in Thailand?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20011205_1217311">普吉岛</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011205_1217311">普吉</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1105-00">全球规模最大的德国汉诺威CeBIT电脑展中，2001年的最大参展国家是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1105-00">What is the biggest participating nation in Cebit, world’s largest computer expo, in 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20001108_0621537">台湾</A>
+<A LANG="ZH" DOCNO="edn_xxx_20001108_0621240">台湾</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1106-00">吴哥窟位于何国境内？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1106-00">Which country does Angkor War belong to?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010221_0773606">柬埔寨</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010811_1041450">柬埔寨</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011122_1197562">柬埔寨</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1107-00">以头发当绣线的特殊手工艺起源于中国何朝代？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1107-00">Which Chinese dynasty started the unique handicraft of hair embroidery?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000322_0068111">唐朝</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1108-00">现在的哪个地方以前名字为「加蚋仔」？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1108-00">Which place used to be called "gara?"</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011015_1138290">台北市万华区南区</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011015_1138290">万华区</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1109-00">香港在哪一年回归大陆？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1109-00">What year did Hong Kong return to China?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20001104_0616028">1997年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010902_1075423">1997年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010902_1075423">一九九七年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010102_0706293">九七年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1110-00">担任电影「香草的天空」男主角的美国男星是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1110-00">Which American star is the main actor of the movie “Vanilla Sky”?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20011020_1146211">汤姆克鲁斯</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000829_0507979">阿汤哥</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011217_1236197">阿汤哥</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011228_1251827">汤姆 克鲁斯</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011018_1144006">汤姆克鲁斯</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011230_1255311">汤姆克鲁斯</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1111-00">2001年第34届世界杯棒球赛在何地举办？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1111-00">Where did the 34th Baseball World Cup take place?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010711_0992903">台湾</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011102_1167843">中华民国</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010906_1081531">天母</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011205_1217870">台北</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010728_1019988">台北</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011030_1162683">台北</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011020_1146393">台湾</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011115_1186798">台湾</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011116_1188814">台湾</A>
+<A LANG="ZH" DOCNO="ude_xxx_20001113_0629894">台湾</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010711_0992910">台湾</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010728_1019988">台湾</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011030_1162687">台湾</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1112-00">因抢救美国纽约卡内基音乐厅而留名青史的小提琴大师是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1112-00">Which violinist became famous for saving Carnegie Hall in New York?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010924_1107240">艾萨克史坦</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010924_1107240">史坦</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010924_1107306">史坦</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1113-00">美国和哪个国家首次联合发行的纪念双银币是为了纪念北美新大陆第一位探险家莱弗艾瑞克？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1113-00">Which country released the commemorative silver coins in memory of the first explorer of North America Leif Ericson together with the US?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010120_0733342">冰岛</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1114-00">史上首位踏入伊斯兰教清真寺的教宗是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1114-00">Which pope was the first to enter a Muslim temple?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010509_0894458">若望保禄二世</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000725_0450617">若望保禄二世</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1115-00">全球首次成立的安宁疗护国际组织是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1115-00">What is the world’s first international hospice and palliative care organization?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010502_0882852">亚太安宁缓和医学学会</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1116-00">亚太安宁缓和医学学会于何国成立？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1116-00">In which country was the Asia Pacific Hospice Palliative Care Network, APHN, founded?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010502_0882852">台湾</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1118-00">2001年哪个俄罗斯游泳选手把男子100公尺蛙式的世界纪录推进1分钟之内？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1117-00">Which Russian swimmer finished the men’s 100-meter breaststroke within 1 minute in 2001?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010630_0975827">史鲁德诺夫</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010724_1011963">史路诺夫</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010701_0977063">斯鲁诺夫</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010724_1012341">斯罗诺夫</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1117-00">2001年哪个俄罗斯游泳选手把男子100公尺蛙式的世界纪录推进1分钟之内？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1118-00">Which Russian swimmer finished the men’s 100-meter breaststroke within 1 minute in 2001?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010630_0975827">史鲁德诺夫</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010724_1011963">史路诺夫</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010701_0977063">斯鲁诺夫</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1119-00">男子100公尺蛙式的世界纪录是几秒？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1119-00">What is the world record time for men’s 100-meter breaststroke?</Q>
+<QTYPE>NUMEX</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010630_0975827">59秒97</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1120-00">2000年开幕的国立海洋生物博物馆位于哪里？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1120-00">Where is National Museum of Marine Biology, which commenced in 2000, located?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20000121_0237726">屏东</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000324_0073148">车城</A>
+<A LANG="ZH" DOCNO="ude_xxx_20000513_0318510">屏东</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000224_0193930">屏东</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000904_0517917">屏东</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011222_1244327">屏东</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000504_0150108">恒春</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1121-00">美国东北部的居民订定几月几日为「土拨鼠节」？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1121-00">What date did the residents living in Northeastern US set as the Groundhog Day?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010616_0953710">2月2日</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000213_0211861">二月二日</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1122-00">1995年发生的美国奥克拉荷马市联邦大楼爆炸案主嫌是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1122-00">Who is the prime suspect for the bombing of the Murrah Federal Building in Oklahoma City in 1995?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010612_0947627">麦克维</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010616_0954673">麦克维</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010512_0899810">麦克维</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010612_0947632">麦克维</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011010_1131558">麦克维</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1123-00">第一波爱滋病例于西元几年被公开？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1123-00">When was the first wave of AIDS publicly disclosed?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010604_0935234">一九八一年</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010604_0934840">1981年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1124-00">德国通过对二次世界大战时被纳粹政权压榨的奴工的赔偿方案，总金额约多少美金？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1124-00">What is the amount of indemnity stated in Germany’s act for compensating the laborers who were mistreated under the Nazi regime?</Q>
+<QTYPE>MONEY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000920_0543122">五十二亿美元</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1125-00">带领华盛顿邮报登上财星杂志五百大的是哪位女性领导人？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1125-00">Which female leader made the Washington Post appear on Fortune 500?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010717_1001038">凯塞琳‧葛兰姆</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010719_1005195">葛兰姆</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1126-00">2001年发表重大发现的「B介子实验研究计画（Belle）」是由哪个国家邀集了14个国家的物理学家共同参与研究？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1126-00">What country invited physicists from 14 countries to collaborate in the Belle experiment, which publicized major discoveries in 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010723_1011200">日本</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1127-00">因为全球暖化海平面上升，位于太平洋上的哪个岛国在数十年后有沉入海底的危机？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1127-00">Which island countries in the Pacific Ocean are in the risk of sinking, because of rising sea level due to global warming?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010330_0832521">吐瓦鲁</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1128-00">2001年在非洲何国挖掘出比早期原人「露西」还要早250万年左右的原人化石？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1128-00">In which African country was the primate fossil which was 250 million years older than the primate Lucy unearthed in 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010713_0995579">衣索匹亚</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010713_0995590">衣索匹亚</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1129-00">台湾实行已久的大学联考制度于民国几年正式走入历史？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1129-00">In what year did Taiwan’s Joint College Entrance Examination start?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010628_0972552">民国90年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010628_0972552">90年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1130-00">2001年哪个人在高雄爱河创造了都市间走钢索距离最远的金氏世界纪录？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1130-00">Who set the World Guinness Record for high-wire walking the longest distance on the Love River in Kaohsiung in 2001?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010708_0988126">柯克仑</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010620_0959151">杰伊科克伦</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010630_0975714">柯克仑</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1131-00">2001年第21届世界大学运动会（世大运）在何地举办？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1131-00">Where did the 21st Universiade take place in 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010823_1059194">北京</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010405_0841024">北京</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010610_0944684">北京</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010822_1057087">北京</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1132-00">全台湾年纪最小的大学生是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1132-00">Who is Taiwan’s youngest university student?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010721_1008796">林建邑</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010808_1034993">林建邑</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011111_1181302">林建邑</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010721_1008786">林建邑</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1133-00">世界最高，有「世界之窗」之称的建筑物是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1133-00">What is the world’s tallest building, which is also known as "Window of the World?"</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000607_0414508">双子星塔</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1134-00">「世界之窗」是由哪位日本建筑师负责设计？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1134-00">Which Japanese architect designed the "Window of the World?"</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010914_1094275">山崎实</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1135-00">由卢贝松编剧执导，日本女星广末凉子和法国男星尚雷诺领衔演出的电影是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1135-00">Which movie produced and written by Luc Besson featured Japanese actress Hirosue Ryoko and French actor Jean Reno?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010810_1038752">极速追杀令</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010410_0847733">WASABI</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010814_1043850">极速追杀令</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011212_1228056">极速追杀令</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1136-00">被誉为本世纪最伟大花腔女高音的人是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1136-00">Who is the greatest coloratura soprano of the century?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20001126_0649884">玛莉亚卡拉丝</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20001215_0679810">卡拉丝</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001223_0691882">卡拉丝</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20001215_0679810">玛莉亚卡拉丝</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001223_0691882">玛莉亚卡拉丝</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1137-00">全球首位进行心脏移植手术的南非医师是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1137-00">Who is the first doctor, a South African, to perform heart transplant?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010903_1076136">巴纳德</A>
+<A LANG="ZH" DOCNO="ude_xxx_20000101_0266853">巴纳德</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010903_1076570">巴纳德</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1138-00">伊斯兰教的斋戒月是在回历的几月？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1138-00">Which month in the Muslim calendar is the Ramadan?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011108_1176377">九月</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1139-00">获得2001年诺贝尔文学奖的作家是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1139-00">Which writer won the Nobel Prize in Literature in 2001?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011012_1134947">奈波尔</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011015_1137777">奈波尔</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1140-00">奈波尔是何国的印度裔作家？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1140-00">What is the Indian writer Naipaul’s country?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011013_1136090">千里达</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011012_1134489">千里达</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011024_1152865">英国</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011012_1134947">英国</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1141-00">阿富汗的什么政权因为不愿意交出宾拉登而被攻击以致垮台？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1141-00">Which Afghanistan regime was annihilated because it refused to hand over Bin Laden?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20011007_1127218">神学士政权</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010919_1100379">阿富汗塔利班</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010916_1097170">阿富汗塔利班</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010916_1097150">神学士</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011013_1135908">神学士政权</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010919_1100379">塔利班</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011009_1129576">塔利班</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010918_1098564">塔里班</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1142-00">史上第一位女子马拉松跑进2小时20分纪录的是哪位日本选手？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1142-00">Which Japanese female athlete was the first set the record of 2 hours and 20 minutes for marathon competition?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011001_1117773">高桥尚子</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011009_1129422">高桥尚子</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011001_1118015">高桥尚子</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1143-00">狮子座流星雨的周期是几年？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1143-00">What is the period of the Leo meteor shower?</Q>
+<QTYPE>NUMEX</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20011106_1173369">33年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011114_1185154">三十三年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011117_1190552">卅三年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1144-00">台湾第一部平埔族语的辞典是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1144-00">What is the name of Taiwan’s first Tapani dictionary?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011130_1210710">巴宰语辞典</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1145-00">2001年的世界举重锦标赛在何地举行？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1145-00">Where was the World Weightlifting Championship held in 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010730_1021548">土耳其</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011113_1183088">土耳其</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011228_1252422">土耳其</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1146-00">2001年的第四届世界贸易组织部长级会议在何国举行？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1146-00">Which country hosted the fourth Ministerial Conference of the World Trade Organization?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011023_1150958">卡达</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011102_1167263">卡达</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011023_1151341">卡达</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011113_1182664">卡达</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1147-00">高清愿是哪个集团的总裁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1147-00">What corporation is Kao Chin-Yuan the president of?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20000324_0072678">统一集团</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000301_0186488">统一</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010608_0942074">统一</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000301_0186488">统一企业</A>
+<A LANG="ZH" DOCNO="edn_xxx_20000602_0420532">统一集团</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010509_0893905">统一集团</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1148-00">纽约市第一位亚裔市议员是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1148-00">Who is the first Chinese-American councilor of New York?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011108_1176800">刘醇逸</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011108_1176021">刘醇逸</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1149-00">2002年的维也纳新年音乐会由哪位著名日本指挥家指挥？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1149-00">Which Japanese conductor conducted the Vienna Philharmonic's New Years Concert in 2002?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011230_1255254">小泽征尔</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010502_0882899">小泽征尔</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1150-00">在欧元未发行之前，土耳其民众偏好存藏哪国的货币？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1150-00">Which currency did the Turkish like to collect before the release of Euro?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20011230_1255639">德国马克</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011231_1256588">德国</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1151-00">拿到第一个抗血栓蛇毒蛋白美国专利的人是台湾的？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1151-00">Which Taiwanese has the first US patent on trigramin?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20011231_1256783">黄德富</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1152-00">哪家美国药厂生产「超级阿斯匹灵」？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1152-00">Which American drug company produces super-aspirins?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20011231_1256783">默克药厂</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011231_1256783">默克</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1153-00">哪个作家撰写了「麦田捕手」作者J.D.沙林杰的传记？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1153-00">Which writer wrote the biography of Jerome David Salinger, the author of The Catcher in the Rye?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011231_1256240">伊安汉弥顿</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011231_1256240">汉弥顿</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1154-00">被禁止出版的沙林杰传记书名是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1154-00">What is the name of Salinger biography which was banned?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011231_1256240">「J.D.沙林杰：作者生涯」</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011231_1256240">「 J . D . 沙 林 杰 ： 作者 生涯 」</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1155-00">2001年德国哪个地区气温低达零下45.9度，创下1870年来的新低？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1155-00">Which German region had temperatures below 45.9 degrees, which was the lowest since 1870, in 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20011225_1248065">巴伐利亚</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011226_1249338">德国巴伐利亚</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1156-00">2002年冬季奥运会在美国犹他州何地举行？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1156-00">Where in Utah was the 2002 Winter Olympics held?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010210_0757812">盐湖城</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011212_1227928">美国犹他州盐湖城</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011219_1238967">盐湖城</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011031_1163673">盐湖城</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011212_1227928">盐湖城</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1157-00">1960年塞内加尔独立后的首任总统是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1157-00">Who is the first president of Senegal after its independence in 1960?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000121_0238545">桑果尔</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1158-00">民国87年在台北县林口弑亲案凶手是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1158-00">Who is the murderer of the family murder case in Linkou, Taipei County in 87?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011215_1234063">林清岳</A>
+<A LANG="ZH" DOCNO="ude_xxx_20011214_1232869">林清岳</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000329_0379103">林清岳</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1159-00">2001年获得亚洲电视节「最佳儿童节目奖」的是公共电视的哪个节目？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1159-00">Which Taiwan Public Television program won the Asian Television Award in Best Children’s Program?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011214_1231688">「别小看我」</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011214_1231650">别小看我</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011214_1231688">别小看我</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1160-00">获得2001年曼谷影展「最佳导演奖」的导演？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1160-00">Who won the Best Director Award in the Bangkok Film Festival of 2001?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011126_1203576">蔡明亮</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011126_1203745">蔡明亮</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1161-00">《罪与罚》的作者是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1161-00">Who is the author of Crime and Punishment?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010730_1020931">杜斯妥也夫斯基</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000316_0060010">杜斯妥也夫斯基</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1162-00">「民为贵，君为轻」是谁说的？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1162-00">Who said: "Commoners are more important than the ruler?"</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000711_0471344">孟子</A>
+<A LANG="ZH" DOCNO="ude_xxx_20000330_0375012">孟子</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1163-00">盖达组织的首脑是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1163-00">Who is the leader of Al-Qaeda?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010912_1091268">宾拉丹</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011125_1201982">宾拉丹</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1164-00">太平天国的翼王是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1164-00">Who is the Winged Lord of the Heavenly Kingdom of Great Peace?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000909_0525786">石达开</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1165-00">火鸟组曲的作者是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1165-00">Who is the author of The Firebird Suite?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010406_0842739">史特拉汶斯基</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000415_0099011">史特拉汶斯基</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1166-00">世界上第二大的沙漠是哪一个？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1166-00">What is the name of the world's second largest desert?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010824_1061061">塔克拉马干沙漠</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010829_1068297">塔克拉玛干沙漠</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011017_1140608">塔克拉玛干沙漠</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1167-00">世界上最深的湖是那个？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1167-00">What is the name of the world's deepest lake?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010519_0911127">贝加尔湖</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010519_0911127">贝加尔</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1168-00">主持建造嘉南大圳的工程师是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1168-00">Which engineer built the Jianan dajyun?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20001102_0612688">八田与一</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000712_0470263">八田</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1169-00">玉山有多高？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1169-00">How tall is Yushan Mountain?</Q>
+<QTYPE>NUMEX</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000407_0086729">三千九百五十二公尺</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1170-00">交响曲之父是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1170-00">Who is the father of symphonies?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010424_0870043">海顿</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010619_0957690">海顿</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1171-00">君王论的作者是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1171-00">Who is the author of The Prince?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010924_1106691">马基维利</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1172-00">东方主义的作者是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1172-00">Who is the author of Orientalism?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011224_1245638">萨依德</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1173-00">法国大革命发生在哪一年？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1173-00">Which year did the French Revolution take place?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20001021_0593187">一七八九年</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011114_1184597">一七八九年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011018_1142798">一七八九年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011109_1178037">一七八九年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1174-00">是谁发现了新大陆？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1174-00">Who discovered the New World?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000728_0445818">哥伦布</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010618_0955689">哥伦布</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000716_0464039">哥伦布</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1175-00">般若波罗蜜多心经是哪一位大师翻译的？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1175-00">Who translated the Prajnaparamita Hrdaya Sutra?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010402_0836294">玄奘</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1176-00">开罗会议是何时举行的？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1176-00">When did the Cairo Conference take place?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000520_0435674">1943年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000106_0258794">一九四三年十二月一日</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1177-00">台湾省第一任巡抚是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1177-00">Who is Taiwan's first governor?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000608_0412460">刘铭传</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010427_0876069">刘铭传</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1178-00">德川幕府的创建者是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1178-00">Who started the Tokugawa Shogunate?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000126_0231086">德川家康</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010831_1071838">德川家康</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1179-00">铁达尼号的导演是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1179-00">Who is the director of The Titanic?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010106_0712042">詹姆斯卡麦隆</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010527_0923025">柯麦隆</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010613_0948578">詹姆斯柯麦隆</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001116_0634372">詹姆斯柯麦隆</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010527_0923025">詹姆斯柯麦隆</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1180-00">1960年的美国总统是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1180-00">Who was the American president in 1960?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010916_1096752">艾森豪</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011010_1131034">艾森豪</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1181-00">2000年奥运会在哪里举办的？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1181-00">Where did the 2000 Olympics take place?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20000924_0548744">雪梨</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010404_0838881">雪梨</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000822_0496403">雪梨</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000918_0538632">雪梨</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000923_0547262">雪梨</A>
+<A LANG="ZH" DOCNO="ude_xxx_20000822_0498168">雪梨</A>
+<A LANG="ZH" DOCNO="ude_xxx_20000923_0549244">雪梨</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1182-00">中非共和国的首都在哪？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1182-00">Where is the capital of the Republic of Central Africa?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010910_1087505">班基</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1183-00">中美断交是何时发生的？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1183-00">When did the United States break diplomatic relationship with the Republic of China?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010330_0831612">次年一月一日</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010330_0831612">一九七九年元月一日</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010330_0831612">一九七九年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1184-00">中国的首都在哪里？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1184-00">Where is the capital of China?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010622_0962998">北京</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010907_1084070">北京</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1185-00">中华民国政府何时撤退来台？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1185-00">When did the Republic of China government retreat to Taiwan?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010214_0763754">一九四九年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011223_1249825">民国三十八年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1186-00">中华民国国父是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1186-00">Who is the father of the Republic of China?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000522_0129330">孙中山</A>
+<A LANG="ZH" DOCNO="edn_xxx_20000416_0101582">孙中山</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000704_0021015">孙中山</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010304_0791547">孙中山</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1187-00">孔子活了几岁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1187-00">How old was Confucius when he died?</Q>
+<QTYPE>NUMEX</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010826_1063550">九十二岁</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1188-00">世界上最小的国家是什么？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1188-00">Which country is the world's smallest country?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000527_0329005">诺鲁</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1189-00">世界上跑得最快的人？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1189-00">Who is the world's fastest runner?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010807_1033808">葛林</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1190-00">世界最高的大楼在那个国家？？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1190-00">Which country has the world's tallest skyscraper?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010101_0704760">马来西亚</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1191-00">台湾人平均寿命几岁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1191-00">What is the average life expectancy of Taiwanese people?</Q>
+<QTYPE>NUMEX</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20000303_0041480">74.83岁</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1192-00">台湾的最北端是哪里？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1192-00">What is the northernmost place in Taiwan?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011011_1132683">基隆富贵角</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20011011_1132683">富贵角</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1193-00">红楼梦的作者是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1193-00">Who is the author of the Dream of the Red Chamber?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010920_1101476">曹雪芹</A>
+<A LANG="ZH" DOCNO="edn_xxx_20000812_0035242">曹雪芹</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000303_0185385">曹雪芹</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000909_0526314">曹雪芹</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000923_0547229">曹雪芹</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1194-00">恐龙是什么时候灭绝的？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1194-00">When did the dinosaurs go extinct?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010809_1036567">六千五百万年前</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010809_1036567">新生代</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1195-00">纳尔逊在那一年打败法国的舰队？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1195-00">Which year did Nelson defeat the French navy?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011023_1150080">一八0五年</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011023_1150080">一八０五年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1196-00">第二次世界大战在哪一年结束？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1196-00">Which year did World War II end?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010625_0966860">1945年</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010806_1032659">1945年</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000813_0033424">一九四五年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1197-00">第二次世界大战从哪一年开始？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1197-00">Which year did World War II start?</Q>
+<QTYPE>TIME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010919_1100214">一九三九年</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1198-00">奥运的发源地在哪里？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1198-00">Where is the originating place of the Olympic?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010630_0976004">希腊雅典</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010630_0976004">雅典</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010701_0976848">古希腊</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000221_0200596">希腊</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000512_0127621">希腊</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010701_0976848">希腊</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010630_0976004">希腊</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000522_0130022">雅典</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000825_0502812">雅典</A>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1199-00">网球的发源地是哪里？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1199-00">Where is the originating place of tennis?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+</ANSWER>
+</QA>
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-T1200-00">罗浮宫在哪个城市？</Q>
+<Q LANG="EN" QID="CLQA1-EN-T1200-00">Which country is the Louvre Museum located in?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011114_1184597">巴黎</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000104_0262526">巴黎</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000504_0149464">巴黎</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000113_0249041">巴黎</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010328_0828378">巴黎</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011018_1142798">巴黎</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1001-00">2000年时代华纳与哪家公司合并而成为当时美国最大的合并案？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1001-00">Which corporation bought Time Warner creating the largest company merger in 2000?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000112_0250974">美国线上</A>
+<A LANG="EN" DOCNO="">America Online</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1002-00">美国联邦政府以微软违反何法而判决将其一分为三？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1002-00">Which law did the District Court Judge Thomas Penfield Jackson said Microsoft violated?</Q>
+<QTYPE>LAW</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20000404_0083241">反托辣斯法</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011209_1224549">反托辣斯法</A>
+<A LANG="EN" DOCNO="">Anti-Trust Law</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1003-00">2000年7月佛罗里达法院判决包括飞利浦‧莫里斯(Philip Morris)在内的美国五大烟草公司应赔偿该州共同利害关系人的赔偿金额？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1003-00">How much money has the Miami jury ordered America's big cigarette manufacturers including Philips Morris to pay out for knowingly causing smoking related illnesses in 2000?</Q>
+<QTYPE>MONEY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20000716_0463474">1448亿美元</A>
+<A LANG="EN" DOCNO="">144.8 billions</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1004-00">2000年因贿选丑闻曝光而遭到国会罢免流亡海外的秘鲁总统为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1004-00">Which Peruvian president went into exile in 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20001120_0640741">藤森</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001219_0686000">藤森</A>
+<A LANG="EN" DOCNO="">Alberto Fujimori</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1005-00">最早发现抗生素的科学家是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1005-00">Who is the first scientist discovering antibiotic?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20000101_0266986">弗莱明</A>
+<A LANG="EN" DOCNO="">Alexander Fleming</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1006-00">西元2000年美国、以色列、巴勒斯坦三方参与的中东和平对话于何处举办？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1006-00">Where did the President Clinton host meeting between Israeli and Palestinian leadership to address Mideast peace in 2000?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000726_0448770">大卫营</A>
+<A LANG="EN" DOCNO="">Camp David</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1007-00">西元2000年奥运的主办城市为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1007-00">Which city sponsored the millennium Olympic Games?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000924_0549897">雪梨</A>
+<A LANG="EN" DOCNO="">Sydney</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1008-00">西元2000年9月7号台湾参加联合国一案未列入议程是第几次叩关失败？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1008-00">how many times is it that Taiwan failed in participating in United Nations from the first attempt to 2000?</Q>
+<QTYPE>NUMBER</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000909_0526414">8</A>
+<A LANG="EN" DOCNO="">8</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1009-00">西元2000年德国检方展开政治献金丑闻调查的对象前总理柯尔曾为何党党主席？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1009-00">Of which party the German's Former Premier Helmut Kohl had been the president?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000119_0240356">基督教民主党</A>
+<A LANG="EN" DOCNO="">Christian-Democratic Union (CDU)</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1010-00">西元2000年7月美方派何人前往北京对TMD以及其他全球战略布局与中方展开对话？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1010-00">Who is the delegate of United States visiting Beijing to negotiate the TMD issue in July, 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000708_0474465">柯恩</A>
+<A LANG="EN" DOCNO="">William Cohen</A>
+
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1011-00">2000年的G8高峰会在日本何地举行？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1011-00">Which city hosted the G8 summit in 2000?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000626_0029816">冲绳</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000626_0029816">琉球</A>
+<A LANG="EN" DOCNO="">Okinawa</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1012-00">芬兰第一位女总统为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1012-00">Who is the Finland's first woman president?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000208_0216648">塔雅．哈洛南</A>
+<A LANG="EN" DOCNO="">Tarja Halonen</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1013-00">2000年沉没于北极圈巴伦支海的俄罗斯核子潜艇的名字？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1013-00">Which Russian nuclear submarine sank in the Barents Sea in 2000?</Q>
+<QTYPE>SHIP NAME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000909_0526195">科斯克号</A>
+<A LANG="EN" DOCNO="">Kursk</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1014-00">涉嫌窃取美国洛萨拉摩斯实验室核武机密的华裔科学家为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1014-00">Who was accused of violating Atomic Energy Act because of his purportedly mishandling restricted data of Los Alamos National Laboratories in 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010910_1086720">李文和</A>
+<A LANG="EN" DOCNO="">Wen Ho Lee</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1015-00">2000年NBA总冠军赛最有价值球员为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1015-00">Who is the MVP of NBA Finals 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000511_0131392">欧尼尔</A>
+<A LANG="EN" DOCNO="">Shaquille O'Neal</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1016-00">2000年柏林影展金熊奖得奖作品为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1016-00">Which film won the Golden Bear award in Berlin Film Festival 2000?</Q>
+<QTYPE>MOVIE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000221_0200807">心灵角落</A>
+<A LANG="EN" DOCNO="">Magnolia</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1017-00">第72届奥斯卡金像奖最佳影片是哪一部电影？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1017-00">Which film won the best picture at 72nd Academy Awards (Oscars 2000)?</Q>
+<QTYPE>MOVIE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000328_0076955">美国心玫瑰情</A>
+<A LANG="EN" DOCNO="">American Beauty</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1018-00">美国驱逐舰寇尔号于何国港口遭到恐怖份子以炸弹小艇攻击？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1018-00">Where was the American destroyer Cole bombed in 2000?</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011126_1204145">叶门</A>
+<A LANG="EN" DOCNO="">Yemen</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1019-00">2000年率团访问北韩的美国国务卿为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1019-00">Who is the secretary of State of United States visiting North Korea in 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000729_0444612">梅德兰‧欧布莱特</A>
+<A LANG="EN" DOCNO="">Madeleine Albright</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1020-00">2000年肆虐全球的「我爱你」电脑病毒为何国学生所撰写？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1020-00">Which country did the computer virus "I love you" come from</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000512_0316740">菲律宾</A>
+<A LANG="EN" DOCNO="">Philippines</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1021-00">2000年初全球七大工业国的财政首长与央行总裁会议于何地举行？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1021-00">Which city hosted the G7 finance ministers and central bank governors meeting in 2000?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">东京</A>
+<A LANG="EN" DOCNO="">Tokyo</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1022-00">美国于哪位总统任内通过给予中国永久性正常贸易关系的法案？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1022-00">Which president of United States granted China permanent normal trade relation (PNTR)?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000525_0429515">柯林顿</A>
+<A LANG="EN" DOCNO="">Bill Clinton</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1023-00">东帝汶独立建国过程中的最重要的民运领袖为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1023-00">Who was the leader fighting for independence of East Timor?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000828_0507241">古斯毛</A>
+<A LANG="EN" DOCNO="">Xanana Gusmao</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1024-00">智利于1973~1990实行独裁统治的右翼军政府领袖为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1024-00">Who was the leader of the right wing military government in Chile from 1973 to 1990?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000303_0041118">皮诺契特</A>
+<A LANG="EN" DOCNO="">Augusto Pinochet</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1025-00">日本软体银行的创办人为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1025-00">Who is the president of Softbank Corporation?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20000529_0434783">孙正义</A>
+<A LANG="EN" DOCNO="">Masayoshi Son</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1026-00">收购南韩三星汽车的外国厂商为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1026-00">Which corporation bought South Korea's Samsung Motors?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">雷诺汽车</A>
+<A LANG="EN" DOCNO="">Renault</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1027-00">2000年墨西哥总统大选当选人为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1027-00">Who was the winner of the Mexican presidential election in 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000704_0020199">福克斯</A>
+<A LANG="EN" DOCNO="">Vincente Fox</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1028-00">2000年俄罗斯新任总统为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1028-00">Who was the winner of the Russian presidential election in 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000328_0199414">普亭</A>
+<A LANG="EN" DOCNO="">Vladimir Putin</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1029-00">世界上第一个将安乐死合法化的国家？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1029-00">Which country is the first country in the world to legalize euthanasia?</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20001218_0684646">荷兰</A>
+<A LANG="EN" DOCNO="">Netherlands</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1030-00">第一位当选参议员的美国第一夫人是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1030-00">Who is the first U.S. First lady Senator?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010105_0711277">希拉蕊</A>
+<A LANG="EN" DOCNO="">Hillary Rodham Clinton</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1031-00">2000年的资讯科技大会在何地举办？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1031-00">Which city hosted the World Congress on Information Technology (WCIT) in 2000?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000611_0016342">台北</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000519_0435941">台北</A>
+<A LANG="EN" DOCNO="">Taipei</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1032-00">2000年底负责筹组新内阁的印尼副总统为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1032-00">Who is in charge of Indonesia's cabinet in 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000826_0506922">梅嘉娃蒂</A>
+<A LANG="EN" DOCNO="">Megawati Sukarnoputri</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1033-00">2000年全球造成最多人迁徙的水患主要发生在何国？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1033-00">Which country in Africa is attacked by severe floods which devastated almost whole country?</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">莫三鼻克</A>
+<A LANG="EN" DOCNO="">Mozambique</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1034-00">狂牛症最早起源于何国？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1034-00">Which country is the mad cow disease originated from?</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010201_0743322">英国</A>
+<A LANG="EN" DOCNO="">United Kingdom</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1035-00">法国航空公司协和号有史以来第一次空难于何处坠毁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1035-00">Which city did the Concorde crash first?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20000727_0447530">巴黎</A>
+<A LANG="EN" DOCNO="">Paris</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1036-00">前南斯拉夫前总统米洛谢维契共统治南斯拉夫几年？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1036-00">How many years did the former Yugoslavian former president Milo Hsiehwei rule the country?</Q>
+<QTYPE>NUMBER</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010629_0974505">14</A>
+<A LANG="EN" DOCNO="">14</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1037-00">参加两韩高峰会的北韩领导人是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1037-00">Who was the leader of North Korea taking part in the Korean Summit?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000615_0014749">金正日</A>
+<A LANG="EN" DOCNO="">Kim, Jong-il</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1038-00">2000年欧洲国家杯冠军队为？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1038-00">Which country won Euro 2000 crown?</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000704_0020640">法国</A>
+<A LANG="EN" DOCNO="">France</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1039-00">南韩第一大民营建造商为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1039-00">Which firm is the largest construction company in South Korea?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">现代工程及营造公司</A>
+<A LANG="EN" DOCNO="">Hyundai Engineering &amp; Construction</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1040-00">2000年台湾总统当选人是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1040-00">Who was the winner of the Taiwan presidential election in 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000330_0375174">陈水扁</A>
+<A LANG="EN" DOCNO="">Chen, Shui-bian</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1041-00">2000年台湾副总统当选人是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1041-00">Who was the winner of the Taiwan vice-presidential election in 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000330_0375174">吕秀莲</A>
+<A LANG="EN" DOCNO="">Lu, Hsiu-lien</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1042-00">联合国总部在哪一座城市？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1042-00">Which city does United Nations locate its headquarter?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000620_0006867">纽约</A>
+<A LANG="EN" DOCNO="">New York</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1043-00">2000年大卫营以巴和谈破裂的主因乃是肇因于哪个城市的主权争议？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1043-00">Which city's jurisdictional dispute does cause the Israeli and Palestine peace talks which conducts in Camp David to burst?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000726_0448763">耶路撒冷</A>
+<A LANG="EN" DOCNO="">Jerusalem</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1044-00">2000年遭到国会弹劾下台的菲律宾总统为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1044-00">who was the Philippine president encountering Congress impeaches to leave office in 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010405_0841813">艾斯特瑞达</A>
+<A LANG="EN" DOCNO="">JE Estrada</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1045-00">首次搭载太空观光客进驻国际太空站(ISS)之俄国太空船为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1045-00">Which Russian space ship did first embark space tourist to International Space Station (ISS)?</Q>
+<QTYPE>SHIP</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010429_0879160">联合号</A>
+<A LANG="EN" DOCNO="">Soyuz</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1046-00">哪一间日本公司设计飞行速率二马赫的新飞机?</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1046-00">Which corporation in Japan designed new aircraft to travel at Mach 2?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">三菱重工</A>
+<A LANG="EN" DOCNO="">Mitsubishi Heavy Industries</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1047-00">2000年玛丹娜与谁结婚？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1047-00">Who is Madonna married to in 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010117_0727858">盖瑞奇</A>
+<A LANG="EN" DOCNO="">Guy Ritchie</A>
+</ANSWER>
+</QA> 
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1048-00">谁是第一位自费太空观光客？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1048-00">Who is the first space tourist?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010428_0878270">提托</A>
+<A LANG="EN" DOCNO="">Dennis Tito</A>
+</ANSWER>
+</QA> 
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1049-00">2000年世界最佳男运动员为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1049-00">Who in 2000 is the world best male athlete?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20001217_0683088">老虎伍兹</A>
+<A LANG="EN" DOCNO="">Tiger Woods</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1050-00">西班牙境内的分离运动组织为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1050-00">Which group in Spain supported separation movement?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000917_0538160">巴斯克分离组织</A>
+<A LANG="EN" DOCNO="">Basque Separatist Group</A>
+<A LANG="EN" DOCNO="">ETA</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1051-00">一级方程式赛车冠军车手为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1051-00">Who is the champion at the Formula 1 World Championship?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20010907_1084172">舒马赫</A>
+<A LANG="EN" DOCNO="">Michael Shumacher</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1052-00">西元2000年加入奥地利联合政府的自由党党魁是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1052-00">Who is the leader of Freedom Party joining the Austria coalition government in 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20000220_0201426">海德</A>
+<A LANG="EN" DOCNO="">Joerg Haider</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1053-00">华语片卧虎藏龙之导演为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1053-00">Who is the director of the Chinese movie crouching tiger, hidden dragon?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000520_0432326">李安</A>
+<A LANG="ZH" DOCNO="ude_xxx_20010326_0825795">李安</A>
+<A LANG="EN" DOCNO="">Ang Lee</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1054-00">2000年木村拓哉宣布结婚之对象为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1054-00">To whom is Mr. Takuya Kimura married in 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010908_1085293">工藤静香</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010612_0947217">工藤静香</A>
+<A LANG="EN" DOCNO="">Shizuka Kudo</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1055-00">哈利波特系列小说之作者为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1055-00">Who is the author of the series novel "Harry Porter"?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000711_0472373">罗琳</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011218_1236570">罗琳</A>
+<A LANG="EN" DOCNO="">J.K. Rowling</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1056-00">2000年诺贝尔文学奖的获奖者为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1056-00">Who is the winner of the 2000 Nobel Prize in Literature?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010204_0747727">高行健</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001211_0673824">高行健</A>
+<A LANG="EN" DOCNO="">Gao, Xingjian</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1057-00">2000年诺贝尔文学奖的获奖作品为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1057-00">Which work is the winner of the 2000 Nobel Prize in Literature?</Q>
+<QTYPE>BOOK</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20001021_0593796">灵山</A>
+<A LANG="EN" DOCNO="">Soul Mountain</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1058-00">七大工业国(G7)中最先与北韩建交者为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1058-00">Which in the G7 is the first country to establish diplomatic relations with North Korea?</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">义大利</A>
+<A LANG="EN" DOCNO="">Italy</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1059-00">遭指控涉嫌犯下鸡奸案的前马来西亚副总理为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1059-00">Who is the Former Malaysian Deputy Premier convicted of sodomy?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">安华</A>
+<A LANG="EN" DOCNO="">Anwar</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1060-00">二次世界大战中日本在位天皇为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1060-00">Who is the emperor of Japan in World War II?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">昭和天皇</A>
+<A LANG="ZH" DOCNO="">裕仁</A>
+<A LANG="EN" DOCNO="">Shiaowa Emperor</A>
+<A LANG="EN" DOCNO="">Hirohito</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1061-00">「中国物理学之父」是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1061-00">Who is the "father of the Chinese physics"</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010618_0955732">吴大猷</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010519_0910658">吴大猷</A>
+<A LANG="EN" DOCNO="">Wu, Ta-you</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1062-00">世界经济论坛设于何国？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1062-00">Where is the World Economic Forum located?</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000908_0524807">瑞士</A>
+<A LANG="EN" DOCNO="">Switzerland</A>
+<A LANG="EN" DOCNO="">Swiss</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1063-00">美国第一家申请发行网际网路股票的报社是哪一家？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1063-00">Which newspaper agency is the first one to apply for the release Internet stock in United States?</Q>
+<QTYPE>NEWSPAPER</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">纽约时报</A>
+<A LANG="EN" DOCNO="">The New York Times</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1064-00">联合国祕书长是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1064-00">Who is the Secretary General of United Nations?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011013_1136495">安南</A>
+<A LANG="EN" DOCNO="">Kofi Annan</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1065-00">创作出连环漫画「史努比」的插画家是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1065-00">Who is the painter creating the series cartoon "Snoopy"?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000917_0564891">查理‧修兹</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000704_0021332">查尔斯‧舒兹</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000104_0261927">舒兹</A>
+<A LANG="EN" DOCNO="">Charles M. Schulz</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1066-00">何大一博士研发的「鸡尾酒疗法」是为了治疗哪种疾病？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1066-00">Which kind of disease does Dr. David Ho research and develop "the cocktail therapy" for?</Q>
+<QTYPE>DISEASE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000419_0106162">爱滋病</A>
+<A LANG="EN" DOCNO="">AIDS</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1067-00">著名的莫高窟位于中国大陆何处？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1067-00">Where is the famous Mogao Caves located in mainland China?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000825_0501301">敦煌</A>
+<A LANG="EN" DOCNO="">Dunhuang</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1068-00">哪位日本首相因「神国论」而引发日本朝野的不满？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1068-00">Which Japanese prime minister initiated the disaffection of the government and the people because of his talks of "divine nation"?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000523_0427330">森喜朗</A>
+<A LANG="EN" DOCNO="">Yoshiro Mori</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1069-00">比萨斜塔位于何国？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1069-00">Which country is the Leaning Tower of Pisa located in?</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000315_0057451">义大利</A>
+<A LANG="EN" DOCNO="">Italy</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1070-00">谁发动西安事变？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1070-00">Who starts the Xi'an Incident?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011016_1139233">张学良</A>
+<A LANG="EN" DOCNO="">Zhang, Xueliang</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1071-00">谁在西安事变被挟持？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1071-00">Who is captured and detained in the Xi'an Incident?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011017_1141907">蒋介石</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011013_1136351">蒋介石</A>
+<A LANG="EN" DOCNO="">Chiang, Kai-Shek</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1072-00">张学良晚年住在何处？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1072-00">Where did Zhang Xueliang live in his old age?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000528_0435183">夏威夷</A>
+<A LANG="EN" DOCNO="">Hawaii</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1073-00">韩战爆发于哪一年？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1073-00">When did the Korean War take place?</Q>
+<QTYPE>DATE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">1950</A>
+<A LANG="EN" DOCNO="">1950</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1074-00">韩战停战协定签署于哪一年？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1074-00">When was the ceasefire agreement for Korean War signed?</Q>
+<QTYPE>DATE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010427_0875987">1953</A>
+<A LANG="EN" DOCNO="">1953</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1075-00">谁是「自由软体之父」？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1075-00">Who is the "father of free software"?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000608_0412894">理察‧史托曼</A>
+<A LANG="EN" DOCNO="">Richard Stallman</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1076-00">哪个国家的人民最长寿？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1076-00">Which country has the greatest longevity in the world?</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">日本</A>
+<A LANG="EN" DOCNO="">Japan</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1077-00">2000年哪个德国城市举办的万国博览会？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1077-00">Which city in Germany hosted World Exposition 2000?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000529_0434005">汉诺威</A>
+<A LANG="EN" DOCNO="">Hannover</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1078-00">谁嫁给麦克道格拉斯？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1078-00">To whom is Michael Douglas married?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20001201_0657709">凯萨琳丽塔琼斯</A>
+<A LANG="EN" DOCNO="">Catherine Zeta Jones</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1079-00">何种气体高度集中会造成温室效应？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1079-00">Which gas with high degree of concentration will create the greenhouse effect?</Q>
+<QTYPE>GAS</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010919_1100359">二氧化碳</A>
+<A LANG="EN" DOCNO="">Carbon Dioxide</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1080-00">谁被称为「预力混凝土先生」？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1080-00">Who is the "Mr. Prestressed Concrete"?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">林同炎</A>
+<A LANG="EN" DOCNO="">Tung-Yen Lin</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1081-00">第六次2000年全球气候会议在哪个城市举行？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1081-00">Which city hosted the 6th Conference of the Parties (COP) 2000?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20001125_0649423">海牙</A>
+<A LANG="EN" DOCNO="">Hague</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1082-00">第七届西太平洋化疗及传染病医学会议在哪个城市举行？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1082-00">Which city hosted the 7th West Pacific Ocean Chemotherapy and Infectious Disease Medicine Conference?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20001215_0680021">香港</A>
+<A LANG="EN" DOCNO="">Hong Kong</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1083-00">知名建筑「落水山庄」是由哪位建筑师所设计的？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1083-00">Who is the architect of the well-known building "Falling water"?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20011121_1196858">莱特</A>
+<A LANG="EN" DOCNO="">Frank Lloyd Wright</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1084-00">创造出知名侦探人物「福尔摩斯」的作者是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1084-00">Who created the famous fictional detectives "Sherlock Holmes"?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011221_1242935">柯南道尔</A>
+<A LANG="EN" DOCNO="">Arthur Conan Doyle</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1085-00">第一次世界大战于西元几年爆发？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1085-00">When did the World War I take place?</Q>
+<QTYPE>DATE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010925_1108826">一九一四</A>
+<A LANG="EN" DOCNO="">1914</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1086-00">爱迪生在哪一年发明电灯？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1086-00">When did Thomas Edison invent the light bulb?</Q>
+<QTYPE>DATE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="">1879</A>
+<A LANG="EN" DOCNO="">1879</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1087-00">科学家第一次成功复制哺乳动物是在西元几年？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1087-00">When did the scientist first successfully duplicate mammals?</Q>
+<QTYPE>DATE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010809_1037889">一九九七年</A>
+<A LANG="EN" DOCNO="">1997</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1088-00">英国的第三个海峡殖民地是哪里？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1088-00">Where is the third straits settlements of Great Britain?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000602_0423665">槟城</A>
+<A LANG="EN" DOCNO="">Penang</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1089-00">帛琉共和国于西元几年独立？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1089-00">When has Palau been an independent country?</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000322_0068152">1994</A>
+<A LANG="EN" DOCNO="">1994</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1090-00">2000年第53届坎城影展影后是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1090-00">Who was the winner of the Best Actress Award in Cannes 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20000522_0129305">碧玉</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001204_0662089">碧玉</A>
+<A LANG="EN" DOCNO="">Bjork</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1091-00">被称为日本精神象征的山是哪一座山？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1091-00">Which mountain has been regarded as the spiritual symbol of Japan?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010203_0746278">富士山</A>
+<A LANG="EN" DOCNO="">Fuji Mountain</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1092-00">蒙古何时成为独立国家？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1092-00">When has Mongolia been an independent country?</Q>
+<QTYPE>DATE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011017_1141571">一九二一</A>
+<A LANG="EN" DOCNO="">1921</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1093-00">第三届东亚运动会在哪一个城市举办？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1093-00">Which city hosted the 3rd East Asian Games?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010518_0908555">大坂</A>
+<A LANG="EN" DOCNO="">Osaka</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1094-00">哪一部电影荣获2000年第53届坎城影展金棕榈奖？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1094-00">Which film took the Palme d'Or Award in Cannes 2000?</Q>
+<QTYPE>MOVIE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20000522_0129305">在黑暗中漫舞</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001204_0662089">在黑暗中漫舞</A>
+<A LANG="EN" DOCNO="">Dancer in the Dark</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1095-00">全世界种植基因改造农作物的土地面积排名第三的国家是哪一国？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1095-00">Which country ranked the third in land area of gene transformation crops?</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000828_0507260">加拿大</A>
+<A LANG="EN" DOCNO="">Canada</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1096-00">2000年第53届坎城影展影帝是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1096-00">Who was the winner of the Best Actor Award in Cannes 2000?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="ude_xxx_20000522_0129305">梁朝伟</A>
+<A LANG="EN" DOCNO="">Leung, Chi-Wai</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1097-00">著名的法国区位于美国的哪一个城市？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1097-00">Which city of United States is the well-known "French Quarter" located in?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011219_1238202">纽奥良</A>
+<A LANG="EN" DOCNO="">New Orleans</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1098-00">著名的「自由女神」位于美国的哪一个城市？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1098-00">Which city of United States is the well-known "Statue of Liberty" located in?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010912_1091154">纽约</A>
+<A LANG="EN" DOCNO="">New York</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1099-00">参加两韩高峰会的南韩领导人是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1099-00">Who was the leader of South Korea taking part in the Korean Summit?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000615_0014749">金大中</A>
+<A LANG="EN" DOCNO="">Kim, Dae-jung</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1100-00">1989年天安门民运时的中共总书记是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1100-00">Who was the General Secretary of the Central Committee of Communist Party of China in Tiananmen Square protests of 1989?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010107_0713939">赵紫阳</A>
+<A LANG="EN" DOCNO="">Zhao, Ziyang</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1101-00">西游记的作者是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1101-00">Who is the author of "Journey to the West" (Money King)?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010807_1032795">吴承恩</A>
+<A LANG="EN" DOCNO="">Wu, Cheng-en</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1102-00">中国的三星堆遗址于何省？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1102-00">Where is the Sanxingdui remains located?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20001212_0675477">四川</A>
+<A LANG="EN" DOCNO="">Sichuan</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1103-00">口袋怪兽在美国的哪一个城市首先开卖？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1103-00">Where was the first city in United States to sell "pocket monsters"?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011111_1180540">纽约</A>
+<A LANG="EN" DOCNO="">New York</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1104-00">个人化邮票起源于何年？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1104-00">When did the personalized stamps first appear?</Q>
+<QTYPE>DATE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011117_1190745">一九九九</A>
+<A LANG="EN" DOCNO="">1999</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1105-00">第十三届富士通杯国际围棋赛优胜奖金是多少？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1105-00">When did the personalized stamps appear?</Q>
+<QTYPE>MONEY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000409_0091407">二千万日圆</A>
+<A LANG="EN" DOCNO="">20 Millions Japanese Yen</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1106-00">「拉面博物馆」在日本哪一个城市？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1106-00">Which city in Japan is the "La Men Museum" located?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000802_0481937">横滨</A>
+<A LANG="EN" DOCNO="">Yokohama</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1107-00">欧洲最佳经商程式是哪一个城市？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1107-00">Which city is the best European city for commerce?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20001116_0634452">伦敦</A>
+<A LANG="EN" DOCNO="">London</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1108-00">台湾任期最长的中央银行总裁是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1108-00">Who was the Taiwan's Central Bank Governor with longest tenure?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20001005_0570214">俞国华</A>
+<A LANG="EN" DOCNO="">Gwo-hwa Yu</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1109-00">哪一国是全球最适合居住的国家？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1109-00">Which country is the most suitable for people to live?</Q>
+<QTYPE>COUNTRY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000630_0478452">加拿大</A>
+<A LANG="EN" DOCNO="">Canada</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1110-00">荣获诺贝尔和平奖的南韩总统是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1110-00">Which South Korean president was the winner of the Nobel Prize in Peace?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20001211_0673762">金大中</A>
+<A LANG="EN" DOCNO="">Kim, Dae-jung</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1111-00">参加两韩高峰会的北韩领导人是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1111-00">Who was the leader of North Korea taking part in the Korean Summit?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000615_0014749">金正日</A>
+<A LANG="EN" DOCNO="">Kim Jong-il</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1112-00">历史上死难人数最多的沉船是哪一艘？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1112-00">Which sunken wreck caused the most people died in the history?</Q>
+<QTYPE>SHIP</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010803_1027537">阿波丸</A>
+<A LANG="EN" DOCNO="">Awa Maru</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1113-00">艾森豪何时就任总统？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1113-00">When did President Eisenhower take office?</Q>
+<QTYPE>DATE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010916_1096752">1953</A>
+<A LANG="EN" DOCNO="">1953</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1114-00">巴斯克分离运动领袖是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1114-00">Who was the leader of Basque Separatist Group ETA?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000917_0538160">阿瑞桂</A>
+<A LANG="EN" DOCNO="">Iqaki de Renterma</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1115-00">日本新干线何时开始营运？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1115-00">When did Japan's Shin-gan-shen (Bullet Train) start transportation business?</Q>
+<QTYPE>DATE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000614_0009215">一九六五</A>
+<A LANG="EN" DOCNO="">1965</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1116-00">美国食品药物管理局在2000年核准新的抗生素为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1116-00">What was the name of a new antibiotic approved by FDA in 2000?</Q>
+<QTYPE>NAME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000420_0107500">Zyvox</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20000722_0458959">Linezolid</A>
+<A LANG="EN" DOCNO="">Zyvox</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1117-00">那个城市是法国亚尔萨斯的首府？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1117-00">Which city is the capital of Alsace, France?</Q>
+<QTYPE>CITY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010322_0818721">史特拉斯堡</A>
+<A LANG="EN" DOCNO="">Strasbourg</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1118-00">骆马的寿命大约几年？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1118-00">How many years is Llama's life approximately?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010404_0839564">廿年</A>
+<A LANG="EN" DOCNO="">20</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1119-00">阿波丸轮船何时沈没？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1119-00">When did the Awa Maru steamboat sink?</Q>
+<QTYPE>DATE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000228_0189022">一九四五</A>
+<A LANG="EN" DOCNO="">1945</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1120-00">太平洋战争发生于何年？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1120-00">When did the Pacific War take place?</Q>
+<QTYPE>DATE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010811_1040573">一九四一</A>
+<A LANG="EN" DOCNO="">1941</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1121-00">拿破崙于何年发动政变，取得政权？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1121-00">When did Napoleon start the coup d'etat and obtain the political power?</Q>
+<QTYPE>DATE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010328_0828378">一七九九</A>
+<A LANG="EN" DOCNO="">1799</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1122-00">拿破崙出生于何地？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1122-00">Where was Napoleon born?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010903_1076135">科西嘉</A>
+<A LANG="EN" DOCNO="">Corse</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1123-00">DB2资料库管理软体是哪一个公司的产品？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1123-00">Which company issued DB2 Database Management Software?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20000719_0459795">IBM</A>
+<A LANG="ZH" DOCNO="mhn_xxx_20010703_0978684">IBM</A>
+<A LANG="EN" DOCNO="">IBM</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1124-00">IEEE 1394的传输速率为多少？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1124-00">How many is the transfer rate of IEEE 1394?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000916_0536274">400Mbps</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010222_0775528">每秒400Mb</A>
+<A LANG="EN" DOCNO="">400Mbps</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1125-00">Gunn Report根据全球重要广告奖项竞赛得奖统计，公布2000年表现最佳的广告代理商是哪一家公司？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1125-00">According to the results of some global commercial advertisement competitions, which company was ranking on the first place by Gunn Report in 2000</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010101_0701851">BBDO</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1126-00">惠普科技比照航空公司累积里程数的概念，推出的消费奖励计画名称是什么？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1126-00">What's the name of the reward program announced by HP which concept was the same as the airline's reward plan?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010105_0711687">E-Loyalty</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1127-00">联合线上、ShopIBM合办的网路寻恩人活动名称为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1127-00">What's name of the program which topic was to looking for the person you want to thank through the internet that provided by udn.com and ShopIBM?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010110_0718555">菜鸟找老鸟</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1128-00">率先推出台湾手机保单的公司是哪个？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1128-00">Which company provide the first cell phone insurance program in Taiwan?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010114_0723919">太平洋商情</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1129-00">奈比特因为制作哪个节目，而获得一九九九年Rolex奖？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1129-00">Peter Knights won the 1999 Rolex award by producing which program?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010401_0835489">亚洲保育知识推广节目</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1130-00">前往墨西哥进行共同合作繁衍计划的日本熊猫叫什么名字？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1130-00">What's the name of the panda that be sent by the joint breeding plan from Japan to Mexico?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010114_0724417">林林</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1131-00">一九０一年纽西兰推动成立「旅客与休閒胜地部门」的首相是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1131-00">What's the name of the New Zealand's prime minister who push to establish the Department of Tourist and Health Resorts in 1901?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010117_0727697">Sir Joseph Ward</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1132-00">当人体内的铜代谢异常时，会造成哪个疾病？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1132-00">What's name of the disease When human body can't metabolism copper normally?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000624_0031392">威尔逊氏病</A>
+<A LANG="EN" DOCNO="">Wilson's disease</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1133-00">全省第一个自订有电力设施空污标准的县市是哪个？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1133-00">Which county is the first to set the electric facilities air pollution standard in Taiwan?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010117_0727897">台中县</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1134-00">兰吉和他的儿子，于西元 1845 年和萨克索尼（SAXONY）州政府签订合约，在哪里创办制表工厂？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1134-00">Where was Ferdinand Adolph Lange and his son signed the contract with Saxony State Government to establish a watch factory in 1845?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20001030_0607210">格拉苏帝</A>
+<A LANG="EN" DOCNO="">Glashutte</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1135-00">台湾卅个山地乡第一本原住民乡志，是哪个？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1135-00">What's the name of the first aboriginal chorography of the 30 aboriginal county in Taiwan?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010117_0728553">复兴乡志</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1136-00">陈水扁总统将军礼欢迎仪式首度移师南台湾扩大举行，是为了欢迎哪个来访国家的元首？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1136-00">To welcome which country's leader that President Chen, Shui-bian first hold the military honors ceremony in Southern Taiwan?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010325_0825889">布吉纳法索</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1137-00">野生救援组织执行长奈比特指称全球消费鲸鲨最多的是哪个国家？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1137-00">Which country that Peter Knights, the CEO of WildAid accused to consume the whale and shark most?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010401_0835489">台湾</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1138-00">微软提供网路使用者自行选择隐私保护的系统叫什么？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1138-00">Name the personal Internet private protection system by Microsoft.</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010401_0834829">P3P</A>
+<A LANG="ZH" DOCNO="edn_xxx_20010401_0834822">隐私偏好平台</A>
+<A LANG="EN" DOCNO="Platform for Privacy Preference"></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1139-00">威尔逊氏病是因为人体内哪个元素代谢异常？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1139-00">Which element that human body can't metabolism normally caused the Wilson's disease?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000624_0031392">铜</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1140-00">指称台湾是全球消费鲸鲨最多的国家的野生救援组织执行长叫什么名字？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1140-00">Who is the CEO of WildAid that accused Taiwan to consume the whale and shark most?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010401_0835489">奈比特</A>
+<A LANG="EN" DOCNO="">Peter Knights</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1141-00">谁于西元 1845 年和萨克索尼州政府签订合约，在格拉苏帝创办制表工厂？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1141-00">Who signed the contract with Saxony State Government to establish a watch factory at Glashutte in 1845?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20001030_0607210">兰吉</A>
+<A LANG="EN" DOCNO="">Ferdinand Adolph Lange</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1142-00">「无法无家」这部电影的导演是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1142-00">Who is the director of the film named "Sans Toit NiLoi" in 1985?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010609_0942647">安妮华达</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1143-00">首先提供网路使用者自行选择隐私保护的系统的是哪一些公司？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1143-00">Which company provided the first personal Internet private protection system called "P3P"?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010401_0834822">微软</A>
+<A LANG="EN" DOCNO="">Microsoft</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1144-00">美国航空暨太空总署计画在二００四年三月发射到水星探险的太空船名称是什么？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1144-00">What's the name of the space ship launched by NASA to Mercury in March 2004?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010626_0968869">信使号</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1145-00">根据NOMOS的创办者RONALD SCHWERTNER，能够在腕表上标示格拉苏帝的有多少个品牌？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1145-00">According to the founder of Nomos, how many watch brands can mark "Glashutte" on their products?</Q>
+<QTYPE>NUMBER</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20001030_0607210">五个</A>
+<A LANG="EN" DOCNO="">5</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1146-00">电影Intimacy《亲密》，是改编自何人的原着小说？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1146-00">The film called "Intimacy" was based on whose original fiction?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010626_0968869">库雷西</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1147-00">和美国空军侦察机EP-3发生碰撞的和中国战斗机名称为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1147-00">What is the Chinese fighter that collided with U.S. Navy surveillance plane called?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010406_0843213">歼八</A>
+<A LANG="EN" DOCNO=""></A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1148-00">在美国洛杉矶出版台湾现代文学系列的是哪个出版社？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1148-00">Which company publish "The Taiwanese Modern" series in Los Angeles?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010805_1030691">日月出版社</A>
+<A LANG="EN" DOCNO="">Sun &amp; Moon Press</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1149-00">2001印度大地震受创最严重的省份为？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1149-00">Which province of India was devastated by the Indian Earthquake in 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010130_0740065">古茶拉底省</A>
+<A LANG="EN">Gujarat</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1150-00">九一一恐怖攻击过后全球陷入哪一种细菌的恐怖攻击疑云中？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1150-00">After 911, the whole world was under the strain of what kind of bacteria?</Q>
+<QTYPE>NAME</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20011111_1180544">炭疽杆菌</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011004_1122907">炭疽热细菌</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011012_1134401">炭疽热</A>
+<A LANG="ZH" DOCNO="udn_xxx_20011024_1153236">炭疽菌</A>
+<A LANG="EN">anthrax</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1151-00">前南斯拉夫总统米洛谢维契曾因发动哪一场战争而遭到美国与北约空袭惩罚？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1151-00">Which war started by Yugoslavia ex-president Milosevic triggered the air attack by the United States and the United Nations as a punishment?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000515_0320626">科索伏战争</A>
+<A LANG="ZH" DOCNO="udn_xxx_20001008_0574729">科索伏</A>
+<A LANG="EN">Kosovo war</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1152-00">2001年亚洲第一起确定狂牛症病例发生在何国？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1152-00">Which country had the first confirmed case of mad cow disease ever found in Asia, 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010911_1088865">日本</A>
+<A LANG="EN">Japan</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1153-00">2001年赢得环法自由车赛完成三连霸的美国抗癌车手为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1153-00">Which American cancer-fighting bicycler won his third straight in Tour de France?</Q> 
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20011208_1222739">阿姆斯壮</A>
+<A LANG="EN">Lance Armstrong</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1154-00">惠普科技于2001年宣布合并哪一家电脑大厂？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1154-00">Which computer company did Hewlett-Packard announced to merge with?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010905_1080025">康柏电脑</A>
+<A LANG="EN">Compaq</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1155-00">美国史上第一位华裔部长为谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1155-00">Who is the first Chinese minister in the history of the US?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010114_0724039">赵小兰</A>
+<A LANG="EN">Elaine Chao</A>
+<A LANG="EN">Elaine L. Chao</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1156-00">神学士政权摧毁的两尊巨佛雕像位于阿富汗境内何省？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1156-00">The two Buddhas destroyed by Taliban were located in which province of Afghanistan?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010311_0802298">巴米安省</A>
+<A LANG="EN">Bamiyan</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1157-00">与中国战机擦撞并迫降于海南岛的美国侦察机为何型号？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1157-00">Which kind was the American spy plane colliding with a Chinese fighter and landed on Hainan?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010403_0838139">EP-3侦察机</A>
+<A LANG="EN">EP-3</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1158-00">审核通过争议性中学历史教科书的日本政府单位为何？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1158-00">Which Japanese governmental office approved the controversial history textbook for high schools?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010404_0839849">日本文部科学省</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010704_0981767">文部科学省</A>
+<A LANG="EN">Ministry of Education</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1159-00">2001年美国联准会(Fed)共降息几次？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1159-00">How many times did Fed cut interest rates in 2001?</Q>
+<QTYPE>NUMBER</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20011214_1232126">11次</A>
+<A LANG="ZH" DOCNO="edn_xxx_20011215_1233286">11度</A>
+<A LANG="EN">11</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1160-00">抗忧郁症药物百忧解(Prozac)由哪一家药厂研发？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1160-00">Which company produces the antidepressant Prozac?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010428_0876865">礼来药厂</A>
+<A LANG="EN">Eli Lilly</A>
+<A LANG="EN">Lilly</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1161-00">2001年第58届金球奖茱莉亚罗勃玆(Julia Roberts)以何部片赢得最佳剧情片女主角？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1161-00">By which movie did Julia Roberts won the 58th Goldeb Globe Award for the best actress in a leading role -- drama, in 2001?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010123_0737302">永不妥协</A>
+<A LANG="EN">Erin Brockovich</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1162-00">汉他病毒主要的宿主是何种动物，并会经其传染给人类？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1162-00">What kind of animals is the host of Hanta virus?</Q>
+<QTYPE>ANIMAL</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20001130_0656134">老鼠</A>
+<A LANG="EN">rat</A>
+<A LANG="EN">mouse</A>
+<A LANG="EN">rodent animal</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1163-00">2001年哪位大陆人士因表演隔空抓药的特异功能并替人看诊，有诈欺和违反医师法之嫌而遭到台北地检署起诉？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1163-00">Which person from Mainland China was accused of fraud and violation of the Doctor's Law by the Taipei District Public Prosecutors Office because of her performance of supernatural power to conjure up medicine pills out of thin air and providing medical treatment?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010115_0725089">张颖</A>
+<A LANG="EN">Zhang Ying</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1164-00">中美洲面积最小的国家为？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1164-00">What is the smallest country in Central America?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20001219_0685429">萨尔瓦多</A>
+<A LANG="EN">El Salvador</A>
+<A LANG="EN">Salvador</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1165-00">2001年四月首度在台北举行的阿格丽希音乐节是以哪国籍的著名钢琴家阿格丽希(Martha Argerich)为名？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1165-00">What is the nationality of the famous pianist Martha Argerich?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010227_0783452">阿根廷</A>
+<A LANG="EN">Argentina</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1166-00">于2001年停刊，号称为台湾第一家网路原生报的报纸为？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1166-00">What was the newspaper, known as the first online-only newspaper in Taiwan, which was shut down in 2001?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010221_0774996">明日报</A>
+<A LANG="EN">Tomorrow Times</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1167-00">2001年第51届柏林影展获得「最佳新人奖」的女星是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1167-00">Who won the Piper Heidsieck New Talent Award to Best Young Actress in the 51st Berlin Film Festival?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010219_0771227">李心洁</A>
+<A LANG="EN">Angelica Lee Sinje</A>
+<A LANG="EN">Angelica Lee</A>
+<A LANG="EN">Lee Sinje</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1168-00">因为何种因素，使亚洲成为抗药性细菌的最大发源地？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1168-00">What reason makes Asia the greatest birthplace of antibiotic-resistant bacteria?</Q>
+<QTYPE>REASON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000412_0094137">滥用抗生素</A>
+<A LANG="EN">antibiotic abuse</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1169-00">南韩哪个集团的创办人金宇中因为涉及诈欺潜逃国外成为逃犯？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1169-00">Kim Woo-Choong, a Korean fugitive being accused of fraud, was the founder of which group?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010331_0833285">大宇集团</A>
+<A LANG="EN">Daewoo</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1170-00">首位加入美国NBA的华人球员是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1170-00">Who was the first Chinese player in the NBA?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010407_0844564">王治郅</A>
+<A LANG="EN">Wang Zhizhi</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1171-00">人类书写的起源是源自哪个文明？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1171-00">Writing of human beings originated in which culture?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010323_0820910">苏美文明</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010412_0851067">「美索不达米亚」文明</A>
+<A LANG="EN">Sumer</A>
+<A LANG="EN">Mesopotamia</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1172-00">与新加坡碧山大巴窑缔结姊妹区，是台北市第二个进行跨国交流的行政区为？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1172-00">Which district became the sister district of Bishan Toa Payoh, Singapore, and became the second district having international relations in Taipei?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010321_0818036">大安区</A>
+<A LANG="EN">Daan</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1173-00">284年才出现一次的天文奇景「荧惑守心」是火星和哪个星座的主星心宿二非常接近并一起散发红色艳光？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1173-00">The astronomical spectacle happening once in 284 years was the conjunctione of Mars and the alpha of which constellation, Antares?</Q>
+<QTYPE>NATURE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20001228_0698951">天蠍座</A>
+<A LANG="EN">Scorpio</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1174-00">日本有史以来的第一位女性外务大臣是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1174-00">Who became the first female Minister of Foreign Affairs in Japan?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010427_0876485">田中真纪子</A>
+<A LANG="EN">Makiko Tanaka</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1175-00">获选为2001年全球最佳机场的是哪个机场？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1175-00">Which airport was voted as the world's best airport in 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010423_0868925">香港国际机场</A>
+<A LANG="EN">Hong Kong International Airport</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1176-00">行动电话知名厂商易利信(Ericsson)和日本的哪家公司合资组成行动通讯公司？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1176-00">The famous mobile phone company Ericsson have merged with which company into a joint venture of mobile phone businesses?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010425_0872362">SONY</A>
+<A LANG="EN">Sony</A>
+<A LANG="EN">SONY</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1177-00">全球首度认可同性婚姻的是那个国家？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1177-00">What is the first country permitting homosexual marriage?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010402_0836581">荷兰</A>
+<A LANG="EN">Holland</A>
+<A LANG="EN">Netherlands</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1178-00">哪种保育鸟类因为多出现在台南县的菱角田中，而有「菱角鸟」之称？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1178-00">Which conservative species of birds is named as a "bird of the water chestnut" because its perching in ponds of water chestnuts in Tainan, Taiwan?</Q>
+<QTYPE>ANIMAL</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000616_0013786">水雉</A>
+<A LANG="EN">pheasant-tailed jacana</A>
+<A LANG="EN">jacana</A>
+<A LANG="EN">Hydrophasianus chirurgus</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1179-00">哪种水果有消除紧张、抗忧郁的作用？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1179-00">Which kind of fruit can reduce tension and depression?</Q>
+<QTYPE>FRUIT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010715_0998195">香蕉</A>
+<A LANG="EN">banana</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1180-00">2001年3月第一家麦当劳饭店在何国成立？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1180-00">The first MacDonald Hotel was built in which country in March, 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010825_1062357">瑞士</A>
+<A LANG="EN">Swiss</A>
+<A LANG="EN">Switzerland</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1181-00">俗称「玉婆」的伊丽莎白泰勒(Elizabeth Taylor)曾结过几次婚？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1181-00">How many times did Elizabeth Taylor got married?</Q>
+<QTYPE>NUMBER</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20000620_0008019">8次</A>
+<A LANG="EN">8</A>
+<A LANG="EN">eight</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1182-00">日本漫画「乱马1/2」的作者是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1182-00">Who is the author of Japanese comic "Ranma 1/2"?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010721_1007736">高桥留美子</A>
+<A LANG="EN">Rumiko Takahashi</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1183-00">红楼梦的作者是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1183-00">Who was the author of "Dreams of the Red Chamber"?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20000909_0526314">曹雪芹</A>
+<A LANG="EN">Cao Xueqin</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1184-00">全球第一座国家公园是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1184-00">What is the first national park in the world?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010905_1078772">黄石国家公园</A>
+<A LANG="EN">Yellowstone National Park</A>
+<A LANG="EN">Yellowstone</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1185-00">世界最高峰圣母峰位于何国境内？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1185-00">Everest, the highest mountain in the world, is located in which country?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010603_0933994">尼泊尔</A>
+<A LANG="EN">Nepal</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1186-00">在宫崎骏的电影「神隐少女」中，女主角千寻的父母因为吃了要给神灵的贡品而变成了什么动物？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1186-00">In the Hayao Miyazaki's movie "Spirited Away", Chihiro's parents ate offering to gods then turned into what kind of animal?</Q>
+<QTYPE>ANIMAL</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20011226_1248383">猪</A>
+<A LANG="EN">pig</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1187-00">全世界人类喝的最多、仅次于水的饮料是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1187-00">What is the most-often drunk beverages ranking only next to water?</Q>
+<QTYPE>PLANT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010623_0964867">茶</A>
+<A LANG="EN">tea</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1188-00">台北市因为什么效应，会使地震波有放大效果？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1188-00">What effect magnified the earthquake in Taipei?</Q>
+<QTYPE>NATURE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010615_0952929">盆地效应</A>
+<A LANG="ZH" DOCNO="udn_xxx_20000715_0464502">盆地</A>
+<A LANG="EN">basin</A>
+<A LANG="EN">basin effect</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1189-00">2001年的英国大选中，布莱尔所领导的哪个党再次获胜？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1189-00">Which party was lead by Blair to a winning of the British General Election in 2001?</Q>
+<QTYPE>ORGANIZATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010530_0928011">工党</A>
+<A LANG="EN">Labour Party</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1190-00">1999年发生美国9岁女孩吃椰果果冻噎住变成植物人的意外，她的家属为此控告哪家食品公司？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1190-00">Which food company was accused by the relatives of the 9-year-old American girl who was choked when eating a Konjac Mini Gel Snack and fell into a vegetative state in 1999?</Q>
+<QTYPE>COMPANY</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010607_0940370">盛香珍</A>
+<A LANG="EN">Sheng Hsiang Jen</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1191-00">2001年世界飞盘全能赛在何地举办？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1191-00">Where did the World Overall Championships of the World Flying Disc Federation take place in 2001?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010529_0925588">美国圣地牙哥</A>
+<A LANG="EN">San Diego</A>
+<A LANG="EN">San Diego, USA</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1192-00">华盛顿邮报在1970年代曾因为刊载哪件总统弊案而声名大噪？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1192-00">Washington Post became famous because of their reporting of what presidential scandal?</Q>
+<QTYPE>ARTIFACT</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010717_1001038">水门案</A>
+<A LANG="EN">Watergate</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1193-00">国际标准的新生儿女男比是多少(几个女生：几个男生)？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1193-00">What is the worldwide statistical norm of female-to-male ratio at birth?</Q>
+<QTYPE>NUMBER</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH">100：106</A>
+<A LANG="EN">100:106</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1194-00">美国前总统雷根罹患了老人失智症中的哪一种？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1194-00">Which senile dementia did Ronald Reagan, the former president of the US, suffer from?</Q>
+<QTYPE>DISEASE</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20010827_1064860">阿兹海默症</A>
+<A LANG="ZH" DOCNO="udn_xxx_20010615_0952003">阿兹海默氏症</A>
+<A LANG="EN">Alzheimer's disease</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1195-00">1997年以「雷射致冷捕捉原子」的研究成果获得诺贝尔物理奖的华裔科学家是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1195-00">Which Chinese science won the Nobel Prize in Physics in 1997 for "development of methods to cool and trap atoms with laser light"?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="mhn_xxx_20010810_1039148">朱棣文</A>
+<A LANG="EN">Steven Chu</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1196-00">九一一恐怖攻击事件的主谋是哪个人？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1196-00">Who was the prime suspect behind the 911 attack?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH">奥萨玛‧宾拉登</A>
+<A LANG="EN">Osama bin Laden</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1197-00">九一一之后，继美国之后第二个被证实有炭疽热病例的国家是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1197-00">After the US, what was the second country in which positive anthrax infection was reported after 911 attack?</Q>
+<QTYPE>LOCATION</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011021_1148384">肯亚</A>
+<A LANG="EN">Kenya</A>
+</ANSWER>
+</QA>
+
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1198-00">1998年的诺贝尔医学奖得主是谁？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1198-00">Who was the winner of the Nobel Prize in Physiology or Medicine in 1998?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20010302_0787768">穆瑞德</A>
+<A LANG="EN">Robert F. Furchgott</A>
+<A LANG="EN">Louis J. Ignarro</A>
+<A LANG="EN">Ferid Murad</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1199-00">哪个芬兰人因为个人兴趣而写出了Linux作业系统的原型？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1199-00">Which Finnish wrote the prototype of Linux for his personal hobby?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="edn_xxx_20000109_0255594">托瓦兹</A>
+<A LANG="EN">Linus Torvalds</A>
+</ANSWER>
+</QA>
+  
+<QA>
+<QUESTION>
+<Q LANG="ZH" QID="CLQA1-ZH-S1200-00">全球首位获得「世界和平奖」殊荣的女性是？</Q>
+<Q LANG="EN" QID="CLQA1-EN-S1200-00">Who was the first female winning the World Peace prize?</Q>
+<QTYPE>PERSON</QTYPE>
+</QUESTION>
+<ANSWER>
+<A LANG="ZH" DOCNO="udn_xxx_20011209_1224672">吕秀莲</A>
+<A LANG="EN">Lu</A>
+<A LANG="EN">Annette Lu</A>
+</ANSWER>
+</QA>
+</QASET>
